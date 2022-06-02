@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div>
+  <img src="https://komarev.com/ghpvc/?username=ansidev" alt="Profile view" />
+</div>
+
+<div>
   <img src="https://github.com/ansidev/ansidev/blob/main/github_metrics_01.svg" width="48%" />
   <img src="https://github.com/ansidev/ansidev/blob/main/github_metrics_02.svg" width="48%" />
 </div>
