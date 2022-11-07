@@ -1,11 +1,12 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 0 * * *"
+  # Run workflow when pushing on master/main
+  push:
+    branches:
+      - main
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -42,11 +43,9 @@ jobs:
           plugin_notable_filter: stars:>100
           plugin_notable_from: organization
           plugin_notable_indepth: yes
-          plugin_rss: yes
-          plugin_rss_limit: 5
-          plugin_rss_source: https://ansidev.xyz/feed.rss
           use_prebuilt_image: yes
           # repositories_skipped:
+
       - name: Metrics 2
         uses: lowlighter/metrics@latest
         with:
