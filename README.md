@@ -9,18 +9,18 @@
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Go, and front-end stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
-- 💬 Ask me about everything, but I'm not sure I will have the answers you need 😂!
+- 💬 Ask me about everything, but I'm not sure I will have the answers you need! 😂
 
 ### How to reach me?
 
-[<img align="left" alt="ansidev.xyz" width="24px" src="https://ansidev.xyz/pwa-192x192.png" />][website]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/envelope-fill.svg" alt="ansidev | Email" />][email]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/github.svg"        alt="ansidev | GitHub" />][github]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/facebook.svg"      alt="ansidev | Facebook" />][facebook]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/telegram.svg"      alt="ansidev | Telegram" />][telegram]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/twitter.svg"       alt="ansidev | Twitter" />][twitter]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/linkedin.svg"      alt="ansidev | LinkedIn" />][linkedin]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/reddit.svg"        alt="ansidev | Reddit" />][reddit]
+[<img align="left" width="24px" src="https://ansidev.xyz/pwa-192x192.png" alt="ansidev.xyz" />][website]
+<a href="mailto:ansidev@gmail.com"><img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/envelope-fill.svg" alt="ansidev | Email" /></a>
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/github.svg"   alt="ansidev | GitHub" />][github]
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/facebook.svg" alt="ansidev | Facebook" />][facebook]
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/telegram.svg" alt="ansidev | Telegram" />][telegram]
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/twitter.svg"  alt="ansidev | Twitter" />][twitter]
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/linkedin.svg" alt="ansidev | LinkedIn" />][linkedin]
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/reddit.svg"   alt="ansidev | Reddit" />][reddit]
 
 <br/>
 <br/>
