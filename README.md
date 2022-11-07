@@ -5,7 +5,7 @@
 </div>
 
 ## I'm a Protestant, developer, blogger, and open-source contributor!
-- My Vietnamese name is Le Minh Tri.
+- 🇻🇳 My Vietnamese name is Le Minh Tri.
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Go, and front-end stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
