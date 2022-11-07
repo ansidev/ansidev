@@ -13,18 +13,21 @@
 
 ### How to reach me?
 
-[<img align="left" width="24px" src="https://ansidev.xyz/pwa-192x192.png" alt="ansidev.xyz" />][website]
-<a href="mailto:ansidev@gmail.com"><img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/envelope-fill.svg" alt="ansidev | Email" /></a>
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/github.svg"   alt="ansidev | GitHub" />][github]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/facebook.svg" alt="ansidev | Facebook" />][facebook]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/telegram.svg" alt="ansidev | Telegram" />][telegram]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/twitter.svg"  alt="ansidev | Twitter" />][twitter]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/linkedin.svg" alt="ansidev | LinkedIn" />][linkedin]
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/icons/reddit.svg"   alt="ansidev | Reddit" />][reddit]
+[<img align="left" width="22px"  src="https://ansidev.xyz/pwa-192x192.png"                     alt="ansidev.xyz" style="padding-top: 5px;" />][website]
+<a href="mailto:ansidev@gmail.com">
+  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"         alt="ansidev | Email" />
+</a>
+ [<img align="left" width="28px" src="https://img.icons8.com/fluency/28/github.png"            alt="ansidev | GitHub"   style="padding-top: 2px;" />][github]
+ [<img align="left" width="28px" src="https://img.icons8.com/fluency/28/telegram-app.svg"      alt="ansidev | Telegram" style="padding-top: 2px;" />][telegram]
+ [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.svg"          alt="ansidev | Facebook" />][facebook]
+ [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg"          alt="ansidev | LinkedIn" />][linkedin]
+ [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.svg"            alt="ansidev | Reddit" />][reddit]
+ [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.svg"           alt="ansidev | Twitter" />][twitter]
 
 <br/>
+<br/>
 
-# My latest blog posts
+### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to fix &quot;__dirname is not defined in ES module scope&quot; in JS](https://ansidev.xyz/posts/2022-11-05-how-to-fix-dirname-is-not-defined-in-es-module-scope-in-js.html)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.ansidev.xyz/0003-longest-substring-without-repeating-characters/)
@@ -43,7 +46,7 @@
 
 ---
 
-[website]: https://ansidev.xyz
+[website]: https://ansidev.xyz/?utm_source=github&utm_medium=readme
 [email]: ansidev@gmail.com
 [github]: https://github.com/ansidev
 [facebook]: https://facebook.com/leminhtri.py
