@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ansidev" alt="Profile view" />
 </div>
 
-## I'm a Protestant, developer, blogger, and open-source contributor!
+## I'm a Protestant, developer, blogger, and open-source maintainer & contributor!
 - 🇻🇳 My Vietnamese name is Le Minh Tri.
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Go, and front-end stacks!
