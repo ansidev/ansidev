@@ -44,6 +44,10 @@
 <img src="./github_metrics_01.svg" />
 <img src="./github_metrics_02.svg" />
 
+## LICENSE
+
+Please be informed that this project is not released under an open-source license so you cannot fork/clone/copy it.
+
 ---
 
 [website]: https://ansidev.xyz/?utm_source=github&utm_medium=readme
