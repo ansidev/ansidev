@@ -41,13 +41,13 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set nvim telescope prompt input position?](https://ansidev.xyz/posts/2022-12-13-how-to-set-nvim-telescope-prompt-input-position.html)
+- [English linking words note](https://ansidev.xyz/posts/2022-12-13-english-linking-words-note.html)
 - [How to read environment variables in astro.config.mjs?](https://ansidev.xyz/posts/2022-12-12-how-to-read-environment-variables-in-astro-config.html)
 - [How to remove screenshot border option in macOS?](https://ansidev.xyz/posts/2022-12-12-how-to-remove-screenshot-border-option-in-mac-os.html)
 - [628. Maximum Product of Three Numbers](https://leetcode.ansidev.xyz/0628-maximum-product-of-three-numbers/)
 - [How to generate the public key in another format from SSH private key?](https://ansidev.xyz/posts/2022-11-12-how-to-generate-the-public-key-in-another-format-from-ssh-private-key.html)
 - [Go Channel](https://ansidev.xyz/posts/2022-11-10-go-channel.html)
-- [How to fix &quot;__dirname is not defined in ES module scope&quot; in JS](https://ansidev.xyz/posts/2022-11-05-how-to-fix-dirname-is-not-defined-in-es-module-scope-in-js.html)
-- [3. Longest Substring Without Repeating Characters](https://leetcode.ansidev.xyz/0003-longest-substring-without-repeating-characters/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
