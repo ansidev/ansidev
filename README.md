@@ -41,13 +41,13 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry.html)
-- [How to set nvim telescope prompt input position?](https://ansidev.xyz/posts/2022-12-13-how-to-set-nvim-telescope-prompt-input-position.html)
-- [English linking words note](https://ansidev.xyz/posts/2022-12-13-english-linking-words-note.html)
-- [How to read environment variables in astro.config.mjs?](https://ansidev.xyz/posts/2022-12-12-how-to-read-environment-variables-in-astro-config.html)
-- [How to remove screenshot border option in macOS?](https://ansidev.xyz/posts/2022-12-12-how-to-remove-screenshot-border-option-in-mac-os.html)
+- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
+- [How to set nvim telescope prompt input position?](https://ansidev.xyz/posts/2022-12-13-how-to-set-nvim-telescope-prompt-input-position)
+- [English linking words note](https://ansidev.xyz/posts/2022-12-13-english-linking-words-note)
+- [How to read environment variables in astro.config.mjs?](https://ansidev.xyz/posts/2022-12-12-how-to-read-environment-variables-in-astro-config)
+- [How to remove screenshot border option in macOS?](https://ansidev.xyz/posts/2022-12-12-how-to-remove-screenshot-border-option-in-mac-os)
 - [628. Maximum Product of Three Numbers](https://leetcode.ansidev.xyz/0628-maximum-product-of-three-numbers/)
-- [How to generate the public key in another format from SSH private key?](https://ansidev.xyz/posts/2022-11-12-how-to-generate-the-public-key-in-another-format-from-ssh-private-key.html)
+- [How to generate the public key in another format from SSH private key?](https://ansidev.xyz/posts/2022-11-12-how-to-generate-the-public-key-in-another-format-from-ssh-private-key)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
