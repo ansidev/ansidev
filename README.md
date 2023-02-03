@@ -42,12 +42,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
+- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
 - [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
 - [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
 - [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
 - [How to set nvim telescope prompt input position?](https://ansidev.xyz/posts/2022-12-13-how-to-set-nvim-telescope-prompt-input-position)
 - [English linking words note](https://ansidev.xyz/posts/2022-12-13-english-linking-words-note)
-- [How to read environment variables in astro.config.mjs?](https://ansidev.xyz/posts/2022-12-12-how-to-read-environment-variables-in-astro-config)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
