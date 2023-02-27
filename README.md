@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev&#39;s frequently used Taskfiles (today)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (1 day ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (4 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%402.0.1), today) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v2.0.1), 1 day ago) - Solutions for LeetCode problems - Written by ansidev
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.1.3](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.1.3), 4 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.1](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.1), 5 days ago) - An opinionated Astro starter template
 - [South-Paw/action-netlify-cli](https://github.com/South-Paw/action-netlify-cli) ([1.0.1](https://github.com/South-Paw/action-netlify-cli/releases/tag/1.0.1), 1 week ago) - 🙌 Netlify deployments and CLI via GitHub actions
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.1](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.1), 1 week ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [Developer Feature: Add CLI command `task lc`](https://github.com/ansidev/leetcode-blog/pull/43) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Merge branch &#39;hotfix/2.0.1&#39; into develop](https://github.com/ansidev/leetcode-blog/pull/42) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Hotfix v2.0.1](https://github.com/ansidev/leetcode-blog/pull/41) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Merge branch &#39;release/2.0.0&#39; into develop](https://github.com/ansidev/leetcode-blog/pull/40) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Release v2.0.0](https://github.com/ansidev/leetcode-blog/pull/39) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [Fix: Minor fixes](https://github.com/ansidev/astro-basic-template/pull/73) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [build(deps): update eslint to version 8.35.0](https://github.com/ansidev/astro-basic-template/pull/72) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [build(deps): update astro to version 2.0.15](https://github.com/ansidev/astro-basic-template/pull/71) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [build(deps): update @types/node to version 18.14.2](https://github.com/ansidev/astro-basic-template/pull/70) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [build(deps): update astro-compress to version 1.1.35](https://github.com/ansidev/astro-basic-template/pull/69) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-- [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
-- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
-- [How to set nvim telescope prompt input position?](https://ansidev.xyz/posts/2022-12-13-how-to-set-nvim-telescope-prompt-input-position)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### How to contact me?
 
