@@ -9,12 +9,15 @@ on:
       - main
 
 jobs:
-  update_readme:
-    name: Update README.md
+  update_github_status:
+    name: Update GitHub status
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Fetch latest GitHub statuses
         uses: muesli/readme-scribe@master
@@ -22,7 +25,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
         with:
           template: "README.md.tpl"
-          writeTo: "README.md"
+          writeTo: "README.tmp.md"
+
+      - name: Add blog post list section
+        run: |
+          sed 's/<blog_post_list \/>/<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->/g' README.tmp.md > README.md
+          rm README.tmp.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "build: generate GitHub status"
+          commit_options: "--signoff"
+
+  update_latest_blog_posts:
+    name: Update latest blog posts
+    needs: update_github_status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
