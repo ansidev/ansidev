@@ -1,4 +1,4 @@
-name: RSS
+name: README
 on:
   # Schedule daily updates
   schedule:
@@ -9,12 +9,21 @@ on:
       - main
 
 jobs:
-  update-readme-with-blog:
-    name: Latest blog posts
+  update_readme:
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Fetch latest GitHub statuses
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
+        with:
+          template: "README.md.tpl"
+          writeTo: "README.md"
+
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
