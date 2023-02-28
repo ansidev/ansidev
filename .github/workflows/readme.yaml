@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  update_github_status:
+  update_readme:
     name: Update GitHub status
     runs-on: ubuntu-latest
     permissions:
@@ -31,22 +31,16 @@ jobs:
           sed 's/<blog_post_list \/>/<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->/g' README.tmp.md > README.md
           rm README.tmp.md
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "build: generate GitHub status"
-          commit_options: "--signoff"
-
-  update_latest_blog_posts:
-    name: Update latest blog posts
-    needs: update_github_status
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://ansidev.xyz/feed.rss,https://leetcode.ansidev.xyz/rss.xml"
           max_post_count: 7
+          enable_keepalive: false
+          skip_commit: true
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "build: generate README.md"
+          commit_options: "--signoff"
