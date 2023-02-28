@@ -34,6 +34,7 @@ jobs:
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          gh_token: ${{ secrets.GH_TOKEN }}
           feed_list: "https://ansidev.xyz/feed.rss,https://leetcode.ansidev.xyz/rss.xml"
           max_post_count: 7
           enable_keepalive: false
