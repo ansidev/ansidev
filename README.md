@@ -13,47 +13,39 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (today)
+- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (today)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (2 days ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 days ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (3 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 days ago)
 
 #### 🌱 My latest projects
 
 - [ansidev/astro-kite](https://github.com/ansidev/astro-kite) - An opinionated Astro + TailwindCSS starter template
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev
-- [ansidev/rebase-command-test](https://github.com/ansidev/rebase-command-test)
 - [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles
 - [ansidev/sample-gitflow-release-workflows](https://github.com/ansidev/sample-gitflow-release-workflows) - Sample Gitflow release workflows using GitHub Actions and official GitHub CLI
+- [ansidev/golibs](https://github.com/ansidev/golibs) - ansidev's frequently used Go functions
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.1.0](https://github.com/ansidev/leetcode-blog/releases/tag/v2.1.0), today) - Solutions for LeetCode problems - Written by ansidev
 - [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%402.0.1), 2 days ago) - Build faster websites with Astro's next-gen island architecture 🏝✨
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v2.0.1), 3 days ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.1](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.1), 1 week ago) - An opinionated Astro starter template
 - [South-Paw/action-netlify-cli](https://github.com/South-Paw/action-netlify-cli) ([1.0.1](https://github.com/South-Paw/action-netlify-cli/releases/tag/1.0.1), 1 week ago) - 🙌 Netlify deployments and CLI via GitHub actions
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.1](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.1), 1 week ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [build(deps): update @typescript-eslint/parser to version 5.54.0](https://github.com/ansidev/leetcode-blog/pull/48) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update @typescript-eslint/eslint-plugin to version 5.54.0](https://github.com/ansidev/leetcode-blog/pull/47) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update eslint to version 8.35.0](https://github.com/ansidev/leetcode-blog/pull/46) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update astro-compress to version 1.1.35](https://github.com/ansidev/leetcode-blog/pull/45) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update astro to version 2.0.16](https://github.com/ansidev/leetcode-blog/pull/44) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [build(deps): update @typescript-eslint/parser to version 5.54.0](https://github.com/ansidev/astro-basic-template/pull/77) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [build(deps): update @typescript-eslint/eslint-plugin to version 5.54.0](https://github.com/ansidev/astro-basic-template/pull/76) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [Merge branch 'release/2.1.0' into develop](https://github.com/ansidev/leetcode-blog/pull/54) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [build(deps): update astro to version 2.0.16](https://github.com/ansidev/astro-basic-template/pull/75) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
+- [Release v2.1.0](https://github.com/ansidev/leetcode-blog/pull/53) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-- [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
-- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### How to contact me?
 
