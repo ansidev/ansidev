@@ -17,19 +17,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Setup Go
+        uses: actions/setup-go@v3
+
+      - name: Install markscribe
+        run: go install github.com/muesli/markscribe@master
 
       - name: Fetch latest GitHub statuses
-        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
-        with:
-          template: "README.md.tpl"
-          writeTo: "README.tmp.md"
-
-      - name: Add blog post list section
         run: |
-          sed 's/<blog_post_list \/>/<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->/g' README.tmp.md > README.md
-          rm README.tmp.md
+          export PATH=${PATH}:`go env GOPATH`/bin
+          markscribe -write README.md README.md.tpl
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -44,6 +46,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
 
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1

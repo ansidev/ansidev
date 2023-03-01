@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-<blog_post_list />
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### How to contact me?
 
