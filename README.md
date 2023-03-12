@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (3 days ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (2 days ago)
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (4 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (4 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.2](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.2), 1 day ago) - An opinionated Astro starter template
-- [withastro/astro](https://github.com/withastro/astro) ([astro@2.1.2](https://github.com/withastro/astro/releases/tag/astro%402.1.2), 3 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.2](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.2), 3 days ago) - Solutions for LeetCode problems - Written by ansidev
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.2](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.2), 2 days ago) - An opinionated Astro starter template
+- [withastro/astro](https://github.com/withastro/astro) ([astro@2.1.2](https://github.com/withastro/astro/releases/tag/astro%402.1.2), 4 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.2](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.2), 4 days ago) - Solutions for LeetCode problems - Written by ansidev
 - [South-Paw/action-netlify-cli](https://github.com/South-Paw/action-netlify-cli) ([1.0.1](https://github.com/South-Paw/action-netlify-cli/releases/tag/1.0.1), 3 weeks ago) - 🙌 Netlify deployments and CLI via GitHub actions
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.1](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.1), 3 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch 'release/1.0.2' into develop](https://github.com/ansidev/astro-basic-template/pull/88) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [Release v1.0.2](https://github.com/ansidev/astro-basic-template/pull/87) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [build(deps): update @types/node to version 18.15.0](https://github.com/ansidev/astro-basic-template/pull/86) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [build(deps): update astro to version 2.1.2](https://github.com/ansidev/astro-basic-template/pull/85) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [build(deps): update @typescript-eslint/parser to version 5.54.1](https://github.com/ansidev/astro-basic-template/pull/84) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [Merge branch 'release/1.0.2' into develop](https://github.com/ansidev/astro-basic-template/pull/88) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [Release v1.0.2](https://github.com/ansidev/astro-basic-template/pull/87) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [build(deps): update @types/node to version 18.15.0](https://github.com/ansidev/astro-basic-template/pull/86) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [build(deps): update astro to version 2.1.2](https://github.com/ansidev/astro-basic-template/pull/85) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [build(deps): update @typescript-eslint/parser to version 5.54.1](https://github.com/ansidev/astro-basic-template/pull/84) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-- [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
-- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### How to contact me?
 
