@@ -15,9 +15,9 @@
 
 - [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (today)
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (today)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.3](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.3), today) - 🎉 A curated list of awesome things related to Nuxt.js
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdoc@0.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdoc%400.0.5), 2 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.3](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.3), 4 days ago) - An opinionated Astro starter template
-- [swaggo/swag](https://github.com/swaggo/swag) ([v1.8.11](https://github.com/swaggo/swag/releases/tag/v1.8.11), 5 days ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.3](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.3), 1 day ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdoc@0.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdoc%400.0.5), 3 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.3](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.3), 5 days ago) - An opinionated Astro starter template
+- [swaggo/swag](https://github.com/swaggo/swag) ([v1.8.11](https://github.com/swaggo/swag/releases/tag/v1.8.11), 6 days ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.2](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.2), 2 weeks ago) - Solutions for LeetCode problems - Written by ansidev
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch 'hotfix/2.0.3' into develop](https://github.com/ansidev/awesome-nuxt/pull/120) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (today)
-- [Hotfix v2.0.3](https://github.com/ansidev/awesome-nuxt/pull/119) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (today)
-- [Merge branch 'release/2.0.2' into develop](https://github.com/ansidev/awesome-nuxt/pull/118) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (today)
-- [Release v2.0.2](https://github.com/ansidev/awesome-nuxt/pull/117) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (today)
-- [Fix: Update taskfile to version 20230327_01](https://github.com/ansidev/awesome-nuxt/pull/116) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (today)
+- [Merge branch 'hotfix/2.0.3' into develop](https://github.com/ansidev/awesome-nuxt/pull/120) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Hotfix v2.0.3](https://github.com/ansidev/awesome-nuxt/pull/119) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Merge branch 'release/2.0.2' into develop](https://github.com/ansidev/awesome-nuxt/pull/118) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Release v2.0.2](https://github.com/ansidev/awesome-nuxt/pull/117) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Fix: Update taskfile to version 20230327_01](https://github.com/ansidev/awesome-nuxt/pull/116) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-- [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
-- [How to init Astro project using yarn berry?](https://ansidev.xyz/posts/2022-12-20-how-to-init-astro-project-using-yarn-berry)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### How to contact me?
 
