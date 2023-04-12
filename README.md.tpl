@@ -35,6 +35,26 @@
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
+#### Coding statistics
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansidev&theme=github"
+  style="display: inline; width: 320px;"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansidev&theme=github"
+  style="display: inline; width: 320px;"
+/>
+<br />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansidev&theme=github"
+  style="display: inline; width: 320px;"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansidev&theme=github"
+  style="display: inline; width: 320px;"
+/>
+
 #### How to contact me?
 
 [<img align="left" width="32px" src="https://ansidev.xyz/pwa-192x192.png"                alt="ansidev.xyz" style="padding-top: 4px;" />][website]
