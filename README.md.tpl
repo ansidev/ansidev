@@ -38,20 +38,20 @@
 #### Coding statistics
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansidev&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansidev&theme=github_dark"
   style="display: inline; width: 320px;"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansidev&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansidev&theme=github_dark&utcOffset=7"
   style="display: inline; width: 320px;"
 />
 <br />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansidev&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansidev&theme=github_dark"
   style="display: inline; width: 320px;"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansidev&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansidev&theme=github_dark"
   style="display: inline; width: 320px;"
 />
 
