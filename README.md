@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (4 days ago)
-- [ansidev/nvchad-config](https://github.com/ansidev/nvchad-config) - Neovim configs for NvChad (4 days ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 week ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
+- [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
+- [ansidev/nvchad-config](https://github.com/ansidev/nvchad-config) - Neovim configs for NvChad (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc1](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc1), 1 day ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.2.4](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.2.4), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc2](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc2), 1 day ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.2.4](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.2.4), 5 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.4](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.4), 2 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.4](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.4), 3 weeks ago) - An opinionated Astro starter template
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.2](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.2), 1 month ago) - Solutions for LeetCode problems - Written by ansidev
 
 #### 🔨 Latest Pull Requests I published
 
-- [Content: Add post, project](https://github.com/ansidev/blog/pull/354) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [docs(README): add solution for a common issue](https://github.com/xiyaowong/transparent.nvim/pull/37) on [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) (3 days ago)
-- [build(deps): update tailwindcss to version 3.3.1](https://github.com/ansidev/template-vite-vue-tailwind/pull/34) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (4 days ago)
-- [build(deps): update autoprefixer to version 10.4.14](https://github.com/ansidev/template-vite-vue-tailwind/pull/33) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (4 days ago)
-- [build(deps): update unplugin-vue-components to version 0.24.1](https://github.com/ansidev/template-vite-vue-tailwind/pull/32) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (4 days ago)
+- [Content: Add post](https://github.com/ansidev/blog/pull/358) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [Content: Add post, project](https://github.com/ansidev/blog/pull/354) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [docs(README): add solution for a common issue](https://github.com/xiyaowong/transparent.nvim/pull/37) on [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) (4 days ago)
+- [build(deps): update tailwindcss to version 3.3.1](https://github.com/ansidev/template-vite-vue-tailwind/pull/34) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (5 days ago)
+- [build(deps): update autoprefixer to version 10.4.14](https://github.com/ansidev/template-vite-vue-tailwind/pull/33) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (5 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-- [How to disable telemetry in Astro project?](https://ansidev.xyz/posts/2022-12-31-how-to-disable-astro-telemetry)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
