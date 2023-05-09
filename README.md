@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (today)
-- [ansidev/nuxt-bpmn-demo](https://github.com/ansidev/nuxt-bpmn-demo) - A NuxtJS based BPMN modeler (today)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 days ago)
-- [mizusoft/.github](https://github.com/mizusoft/.github) (3 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 days ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
+- [ansidev/nuxt-bpmn-demo](https://github.com/ansidev/nuxt-bpmn-demo) - A NuxtJS based BPMN modeler (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [mizusoft/.github](https://github.com/mizusoft/.github) (4 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), today) - An opinionated Astro starter template
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/partytown@1.2.1](https://github.com/withastro/astro/releases/tag/%40astrojs/partytown%401.2.1), 3 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc3](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc3), 4 days ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.1.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.1.0), 5 days ago) - A snazzy bufferline for Neovim
+- [withastro/astro](https://github.com/withastro/astro) ([astro@2.4.3](https://github.com/withastro/astro/releases/tag/astro%402.4.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), 1 day ago) - An opinionated Astro starter template
+- [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc3](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc3), 5 days ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.1.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.1.0), 6 days ago) - A snazzy bufferline for Neovim
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0-alpha.3](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0-alpha.3), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
-- [Merge branch 'release/1.0.6' into develop](https://github.com/ansidev/astro-basic-template/pull/160) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
-- [Release v1.0.6](https://github.com/ansidev/astro-basic-template/pull/159) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (today)
-- [ci: upgrade GitHub actions](https://github.com/ansidev/pg_query_go/pull/1) on [ansidev/pg_query_go](https://github.com/ansidev/pg_query_go) (2 days ago)
-- [ci: upgrade GitHub actions](https://github.com/pganalyze/pg_query_go/pull/82) on [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) (2 days ago)
+- [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [Merge branch 'release/1.0.6' into develop](https://github.com/ansidev/astro-basic-template/pull/160) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [Release v1.0.6](https://github.com/ansidev/astro-basic-template/pull/159) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [ci: upgrade GitHub actions](https://github.com/ansidev/pg_query_go/pull/1) on [ansidev/pg_query_go](https://github.com/ansidev/pg_query_go) (3 days ago)
+- [ci: upgrade GitHub actions](https://github.com/pganalyze/pg_query_go/pull/82) on [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) (3 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
