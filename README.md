@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (today)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (today)
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (2 days ago)
 - [ansidev/nuxt-bpmn-demo](https://github.com/ansidev/nuxt-bpmn-demo) - A NuxtJS based BPMN modeler (2 days ago)
-- [mizusoft/.github](https://github.com/mizusoft/.github) (5 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(shell-integration): support Alacritty v0.11.0 and newer](https://github.com/desktop/desktop/pull/16676) on [desktop/desktop](https://github.com/desktop/desktop) (today)
+- [fix: typo error](https://github.com/ansidev/hertz-swagger/pull/1) on [ansidev/hertz-swagger](https://github.com/ansidev/hertz-swagger) (today)
 - [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
 - [Merge branch 'release/1.0.6' into develop](https://github.com/ansidev/astro-basic-template/pull/160) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
 - [Release v1.0.6](https://github.com/ansidev/astro-basic-template/pull/159) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
-- [ci: upgrade GitHub actions](https://github.com/ansidev/pg_query_go/pull/1) on [ansidev/pg_query_go](https://github.com/ansidev/pg_query_go) (4 days ago)
-- [ci: upgrade GitHub actions](https://github.com/pganalyze/pg_query_go/pull/82) on [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
