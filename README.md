@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add posts](https://github.com/ansidev/blog/pull/423) on [ansidev/blog](https://github.com/ansidev/blog) (today)
 - [optimize: upgrade example hz/protobuf using hz v0.6.3](https://github.com/cloudwego/hertz-examples/pull/97) on [cloudwego/hertz-examples](https://github.com/cloudwego/hertz-examples) (2 days ago)
 - [fix(shell-integration): support Alacritty v0.11.0 and newer](https://github.com/desktop/desktop/pull/16676) on [desktop/desktop](https://github.com/desktop/desktop) (3 days ago)
 - [fix: typo error](https://github.com/ansidev/hertz-swagger/pull/1) on [ansidev/hertz-swagger](https://github.com/ansidev/hertz-swagger) (3 days ago)
 - [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (5 days ago)
-- [Merge branch 'release/1.0.6' into develop](https://github.com/ansidev/astro-basic-template/pull/160) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (5 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-- [How to set environment variable?](https://ansidev.xyz/posts/2023-02-02-how-to-set-environment-variable)
-- [How to configure conventional commit for your project?](https://ansidev.xyz/posts/2022-12-31-how-to-configure-conventional-commit-for-your-project)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
