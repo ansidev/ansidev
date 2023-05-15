@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
-- [cloudwego/hertz-examples](https://github.com/cloudwego/hertz-examples) - Examples for Hertz. (3 days ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (4 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (2 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 days ago)
+- [cloudwego/hertz-examples](https://github.com/cloudwego/hertz-examples) - Examples for Hertz. (4 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/node@5.1.3](https://github.com/withastro/astro/releases/tag/%40astrojs/node%405.1.3), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0-alpha.4](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0-alpha.4), 3 days ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), 6 days ago) - An opinionated Astro starter template
+- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.5](https://github.com/withastro/astro/releases/tag/create-astro%403.1.5), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0-alpha.4](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0-alpha.4), 4 days ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), 1 week ago) - An opinionated Astro starter template
 - [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc3](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc3), 1 week ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.1.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.1.0), 1 week ago) - A snazzy bufferline for Neovim
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add posts](https://github.com/ansidev/blog/pull/423) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [optimize: upgrade example hz/protobuf using hz v0.6.3](https://github.com/cloudwego/hertz-examples/pull/97) on [cloudwego/hertz-examples](https://github.com/cloudwego/hertz-examples) (3 days ago)
-- [fix(shell-integration): support Alacritty v0.11.0 and newer](https://github.com/desktop/desktop/pull/16676) on [desktop/desktop](https://github.com/desktop/desktop) (4 days ago)
-- [fix: typo error](https://github.com/ansidev/hertz-swagger/pull/1) on [ansidev/hertz-swagger](https://github.com/ansidev/hertz-swagger) (4 days ago)
-- [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (6 days ago)
+- [Add posts](https://github.com/ansidev/blog/pull/423) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [optimize: upgrade example hz/protobuf using hz v0.6.3](https://github.com/cloudwego/hertz-examples/pull/97) on [cloudwego/hertz-examples](https://github.com/cloudwego/hertz-examples) (4 days ago)
+- [fix(shell-integration): support Alacritty v0.11.0 and newer](https://github.com/desktop/desktop/pull/16676) on [desktop/desktop](https://github.com/desktop/desktop) (5 days ago)
+- [fix: typo error](https://github.com/ansidev/hertz-swagger/pull/1) on [ansidev/hertz-swagger](https://github.com/ansidev/hertz-swagger) (5 days ago)
+- [Feature: vitest](https://github.com/ansidev/astro-basic-template/pull/161) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 week ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
