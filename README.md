@@ -13,19 +13,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 day ago)
+- [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim (today)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
 - [safestudio/bible-reading-checklist](https://github.com/safestudio/bible-reading-checklist) - Bible Reading Checklist built on top of NuxtJS and Firebase (1 day ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 day ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim
 - [ansidev/nvchad-config](https://github.com/ansidev/nvchad-config) - Neovim configs for NvChad
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles
 - [ansidev/sample-gitflow-release-workflows](https://github.com/ansidev/sample-gitflow-release-workflows) - Sample Gitflow release workflows using GitHub Actions and official GitHub CLI
-- [ansidev/golibs](https://github.com/ansidev/golibs) - ansidev's frequently used Go functions
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
