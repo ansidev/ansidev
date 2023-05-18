@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [content: add post](https://github.com/ansidev/blog/pull/438) on [ansidev/blog](https://github.com/ansidev/blog) (today)
 - [Merge branch 'release/2.0.5' into develop](https://github.com/ansidev/awesome-nuxt/pull/140) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
 - [Release v2.0.5](https://github.com/ansidev/awesome-nuxt/pull/139) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
 - [build(deps): update markdownlint-cli2 to version 0.7.1](https://github.com/ansidev/awesome-nuxt/pull/138) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
 - [build(deps): update vue to version 3.3.2](https://github.com/ansidev/awesome-nuxt/pull/137) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
-- [Add posts](https://github.com/ansidev/blog/pull/423) on [ansidev/blog](https://github.com/ansidev/blog) (5 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-- [How to debug interactive Go CLI command using VSCode?](https://ansidev.xyz/posts/2023-01-25-how-to-debug-interactive-go-cli-command-using-vscode)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
