@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (2 days ago)
-- [safestudio/bible-reading-checklist](https://github.com/safestudio/bible-reading-checklist) - Bible Reading Checklist built on top of NuxtJS and Firebase (2 days ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (2 days ago)
+- [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim (2 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 days ago)
+- [safestudio/bible-reading-checklist](https://github.com/safestudio/bible-reading-checklist) - Bible Reading Checklist built on top of NuxtJS and Firebase (3 days ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0), 1 day ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 2 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
-- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.5](https://github.com/withastro/astro/releases/tag/create-astro%403.1.5), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdown-remark@2.2.1](https://github.com/withastro/astro/releases/tag/%40astrojs/markdown-remark%402.2.1), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0), 2 days ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 3 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), 1 week ago) - An opinionated Astro starter template
 - [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc3](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc3), 2 weeks ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [content: update post](https://github.com/ansidev/blog/pull/440) on [ansidev/blog](https://github.com/ansidev/blog) (today)
-- [content: update post](https://github.com/ansidev/blog/pull/439) on [ansidev/blog](https://github.com/ansidev/blog) (today)
-- [content: add post](https://github.com/ansidev/blog/pull/438) on [ansidev/blog](https://github.com/ansidev/blog) (today)
-- [Merge branch 'release/2.0.5' into develop](https://github.com/ansidev/awesome-nuxt/pull/140) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
-- [Release v2.0.5](https://github.com/ansidev/awesome-nuxt/pull/139) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 days ago)
+- [content: update post](https://github.com/ansidev/blog/pull/440) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [content: update post](https://github.com/ansidev/blog/pull/439) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [content: add post](https://github.com/ansidev/blog/pull/438) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [Merge branch 'release/2.0.5' into develop](https://github.com/ansidev/awesome-nuxt/pull/140) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (3 days ago)
+- [Release v2.0.5](https://github.com/ansidev/awesome-nuxt/pull/139) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (3 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
