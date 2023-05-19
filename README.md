@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (today)
+- [ansidev/leetcode-solutions-go](https://github.com/ansidev/leetcode-solutions-go) (today)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
 - [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim (2 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 days ago)
-- [safestudio/bible-reading-checklist](https://github.com/safestudio/bible-reading-checklist) - Bible Reading Checklist built on top of NuxtJS and Firebase (3 days ago)
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (3 days ago)
 
 #### 🌱 My latest projects
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
