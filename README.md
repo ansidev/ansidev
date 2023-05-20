@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (today)
 - [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (today)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more. (today)
+- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (today)
 - [ansidev/leetcode-solutions-go](https://github.com/ansidev/leetcode-solutions-go) (1 day ago)
-- [ansidev/fluid-vim-configs](https://github.com/ansidev/fluid-vim-configs) - My configurations for Fluid Vim (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,28 +32,20 @@
 - [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdown-remark@2.2.1](https://github.com/withastro/astro/releases/tag/%40astrojs/markdown-remark%402.2.1), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0), 3 days ago) - The official JavaScript + TypeScript client library for Prismic
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 4 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.43](https://github.com/astro-community/astro-compress/releases/tag/v1.1.43), 6 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.6](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.6), 1 week ago) - An opinionated Astro starter template
-- [swaggo/swag](https://github.com/swaggo/swag) ([v2.0.0-rc3](https://github.com/swaggo/swag/releases/tag/v2.0.0-rc3), 2 weeks ago) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [content: update post](https://github.com/ansidev/blog/pull/440) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [content: update post](https://github.com/ansidev/blog/pull/439) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [content: add post](https://github.com/ansidev/blog/pull/438) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [Merge branch 'release/2.0.5' into develop](https://github.com/ansidev/awesome-nuxt/pull/140) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
-- [Release v2.0.5](https://github.com/ansidev/awesome-nuxt/pull/139) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
+- [build(deps): update eslint-plugin-astro to version 0.27.0](https://github.com/ansidev/leetcode-blog/pull/86) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [build(dep): remove @types/sharp](https://github.com/astro-community/astro-compress/pull/130) on [astro-community/astro-compress](https://github.com/astro-community/astro-compress) (today)
+- [build(deps): update astro-compress to version 1.1.43](https://github.com/ansidev/leetcode-blog/pull/85) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [build(deps): update astro to version 2.5.0](https://github.com/ansidev/leetcode-blog/pull/84) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [build(deps): update @astrojs/tailwind to version 3.1.3](https://github.com/ansidev/leetcode-blog/pull/83) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
