@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (today)
-- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (today)
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more. (today)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (today)
+- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (1 day ago)
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more. (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.3](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.3), today) - Solutions for LeetCode problems - Written by ansidev
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/prefetch@0.2.3](https://github.com/withastro/astro/releases/tag/%40astrojs/prefetch%400.2.3), today) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.44](https://github.com/astro-community/astro-compress/releases/tag/v1.1.44), today) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0), 3 days ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 4 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.3](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.3), 1 day ago) - Solutions for LeetCode problems - Written by ansidev
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/prefetch@0.2.3](https://github.com/withastro/astro/releases/tag/%40astrojs/prefetch%400.2.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.44](https://github.com/astro-community/astro-compress/releases/tag/v1.1.44), 1 day ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.0](https://github.com/prismicio/prismic-client/releases/tag/v7.0.0), 4 days ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 5 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch 'release/2.2.3' into develop](https://github.com/ansidev/leetcode-blog/pull/100) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [Release v2.2.3](https://github.com/ansidev/leetcode-blog/pull/99) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update astro-compress to version 1.1.44](https://github.com/ansidev/leetcode-blog/pull/98) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [chore: set pnpm as package manager](https://github.com/ansidev/leetcode-blog/pull/97) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [build(deps): update astro to version 2.5.1](https://github.com/ansidev/leetcode-blog/pull/96) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [Merge branch 'release/2.2.3' into develop](https://github.com/ansidev/leetcode-blog/pull/100) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [Release v2.2.3](https://github.com/ansidev/leetcode-blog/pull/99) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [build(deps): update astro-compress to version 1.1.44](https://github.com/ansidev/leetcode-blog/pull/98) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [chore: set pnpm as package manager](https://github.com/ansidev/leetcode-blog/pull/97) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [build(deps): update astro to version 2.5.1](https://github.com/ansidev/leetcode-blog/pull/96) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-- [How to take a screenshot on macOS without the drop shadow?](https://ansidev.xyz/posts/2023-02-17-how-to-take-a-screenshot-on-macos-without-the-drop-shadow)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
