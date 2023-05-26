@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (3 days ago)
-- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (5 days ago)
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more. (5 days ago)
-- [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (5 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (4 days ago)
+- [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (6 days ago)
+- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.1](https://github.com/prismicio/prismic-client/releases/tag/v7.0.1), 3 days ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.3](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.3), 5 days ago) - Solutions for LeetCode problems - Written by ansidev
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.44](https://github.com/astro-community/astro-compress/releases/tag/v1.1.44), 5 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 3 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.1](https://github.com/prismicio/prismic-client/releases/tag/v7.0.1), 4 days ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.3](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.3), 6 days ago) - Solutions for LeetCode problems - Written by ansidev
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.44](https://github.com/astro-community/astro-compress/releases/tag/v1.1.44), 6 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 1 week ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: correct mistakes](https://github.com/ansidev/leetcode-blog/pull/102) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [chore(solution): add solution for LeetCode problem No.2468](https://github.com/ansidev/leetcode-blog/pull/101) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
-- [Merge branch 'release/2.2.3' into develop](https://github.com/ansidev/leetcode-blog/pull/100) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (5 days ago)
-- [Release v2.2.3](https://github.com/ansidev/leetcode-blog/pull/99) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (5 days ago)
-- [build(deps): update astro-compress to version 1.1.44](https://github.com/ansidev/leetcode-blog/pull/98) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (5 days ago)
+- [fix(renovate): add renovate config for `nanostores`](https://github.com/ansidev/template-vite-vue-tailwind/pull/39) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (1 day ago)
+- [chore: correct mistakes](https://github.com/ansidev/leetcode-blog/pull/102) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [chore(solution): add solution for LeetCode problem No.2468](https://github.com/ansidev/leetcode-blog/pull/101) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (5 days ago)
+- [Merge branch 'release/2.2.3' into develop](https://github.com/ansidev/leetcode-blog/pull/100) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (6 days ago)
+- [Release v2.2.3](https://github.com/ansidev/leetcode-blog/pull/99) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (6 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
