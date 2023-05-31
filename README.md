@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/verse-cli](https://github.com/ansidev/verse-cli) - Verse CLI (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (5 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
+- [ansidev/verse-cli](https://github.com/ansidev/verse-cli) - Verse CLI (2 days ago)
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (1 week ago)
 - [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser (1 week ago)
 
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.45](https://github.com/astro-community/astro-compress/releases/tag/v1.1.45), 2 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 1 week ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.5](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.5), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.45](https://github.com/astro-community/astro-compress/releases/tag/v1.1.45), 3 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.1](https://github.com/prismicio/prismic-client/releases/tag/v7.0.1), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.3](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.3), 1 week ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 2 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(renovate): add renovate config for `nanostores`](https://github.com/ansidev/template-vite-vue-tailwind/pull/39) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (5 days ago)
+- [fix(renovate): add renovate config for `nanostores`](https://github.com/ansidev/template-vite-vue-tailwind/pull/39) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (6 days ago)
 - [chore: correct mistakes](https://github.com/ansidev/leetcode-blog/pull/102) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
 - [chore(solution): add solution for LeetCode problem No.2468](https://github.com/ansidev/leetcode-blog/pull/101) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
 - [Merge branch 'release/2.2.3' into develop](https://github.com/ansidev/leetcode-blog/pull/100) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
