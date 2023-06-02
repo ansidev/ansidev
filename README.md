@@ -45,7 +45,15 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
+- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
+- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
+- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
+- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
+- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
+- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
+<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
