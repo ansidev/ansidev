@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/verse-cli](https://github.com/ansidev/verse-cli) - Verse CLI (2 days ago)
-- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (2 days ago)
-- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (2 days ago)
-- [ansidev/jsonfmt](https://github.com/ansidev/jsonfmt) - JSON Formatter CLI (2 days ago)
+- [ansidev/verse-cli](https://github.com/ansidev/verse-cli) - Verse CLI (3 days ago)
+- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file (3 days ago)
+- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (3 days ago)
+- [ansidev/jsonfmt](https://github.com/ansidev/jsonfmt) - JSON Formatter CLI (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.6](https://github.com/withastro/astro/releases/tag/create-astro%403.1.6), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.4](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.4), 3 days ago) - Solutions for LeetCode problems - Written by ansidev
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.45](https://github.com/astro-community/astro-compress/releases/tag/v1.1.45), 6 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.6](https://github.com/withastro/astro/releases/tag/create-astro%403.1.6), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.4](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.4), 4 days ago) - Solutions for LeetCode problems - Written by ansidev
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.45](https://github.com/astro-community/astro-compress/releases/tag/v1.1.45), 1 week ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.1](https://github.com/prismicio/prismic-client/releases/tag/v7.0.1), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 2 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [minor updates](https://github.com/ansidev/jsonfmt/pull/2) on [ansidev/jsonfmt](https://github.com/ansidev/jsonfmt) (2 days ago)
-- [chore: regenerate pnpm-lock.yaml](https://github.com/ansidev/blog/pull/478) on [ansidev/blog](https://github.com/ansidev/blog) (3 days ago)
-- [build(deps): update @antfu/eslint-config to version ^0.39.4](https://github.com/ansidev/blog/pull/477) on [ansidev/blog](https://github.com/ansidev/blog) (3 days ago)
-- [Merge branch 'release/2.2.4' into develop](https://github.com/ansidev/leetcode-blog/pull/123) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [Release v2.2.4](https://github.com/ansidev/leetcode-blog/pull/122) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
+- [minor updates](https://github.com/ansidev/jsonfmt/pull/2) on [ansidev/jsonfmt](https://github.com/ansidev/jsonfmt) (3 days ago)
+- [chore: regenerate pnpm-lock.yaml](https://github.com/ansidev/blog/pull/478) on [ansidev/blog](https://github.com/ansidev/blog) (4 days ago)
+- [build(deps): update @antfu/eslint-config to version ^0.39.4](https://github.com/ansidev/blog/pull/477) on [ansidev/blog](https://github.com/ansidev/blog) (4 days ago)
+- [Merge branch 'release/2.2.4' into develop](https://github.com/ansidev/leetcode-blog/pull/123) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [Release v2.2.4](https://github.com/ansidev/leetcode-blog/pull/122) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
