@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (today)
-- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (today)
-- [ghacts/sample-astro-pnpm](https://github.com/ghacts/sample-astro-pnpm) (1 day ago)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ghacts/sample-astro-npm](https://github.com/ghacts/sample-astro-npm) (1 day ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (today)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (today)
+- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (1 day ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([astro@2.6.1](https://github.com/withastro/astro/releases/tag/astro%402.6.1), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.47](https://github.com/astro-community/astro-compress/releases/tag/v1.1.47), 3 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.4](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.4), 1 week ago) - Solutions for LeetCode problems - Written by ansidev
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.0.1](https://github.com/prismicio/prismic-client/releases/tag/v7.0.1), 2 weeks ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.5](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.5), 3 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.1.0](https://github.com/prismicio/prismic-client/releases/tag/v7.1.0), 1 day ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.6](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.6), 1 day ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.8](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.8), 1 day ago) - An opinionated Astro starter template
+- [withastro/astro](https://github.com/withastro/astro) ([astro@2.6.1](https://github.com/withastro/astro/releases/tag/astro%402.6.1), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.47](https://github.com/astro-community/astro-compress/releases/tag/v1.1.47), 4 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 
 #### 🔨 Latest Pull Requests I published
 
-- [minor updates](https://github.com/ansidev/jsonfmt/pull/2) on [ansidev/jsonfmt](https://github.com/ansidev/jsonfmt) (6 days ago)
-- [chore: regenerate pnpm-lock.yaml](https://github.com/ansidev/blog/pull/478) on [ansidev/blog](https://github.com/ansidev/blog) (1 week ago)
-- [build(deps): update @antfu/eslint-config to version ^0.39.4](https://github.com/ansidev/blog/pull/477) on [ansidev/blog](https://github.com/ansidev/blog) (1 week ago)
-- [Merge branch 'release/2.2.4' into develop](https://github.com/ansidev/leetcode-blog/pull/123) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
-- [Release v2.2.4](https://github.com/ansidev/leetcode-blog/pull/122) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
+- [build(dep): update vite-plugin-vue-markdown to version ^0.23.5](https://github.com/ansidev/counter-analytics-vue/pull/44) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [build(ex-deps): update typescript to version ^5.1.3](https://github.com/ansidev/counter-analytics-vue/pull/43) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [build(dep): update vue to version ^3.3.4](https://github.com/ansidev/counter-analytics-vue/pull/42) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [build(deps): update typescript to version ^5.1.3](https://github.com/ansidev/counter-analytics-vue/pull/39) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [build(dep): update tsup to version ^6.7.0](https://github.com/ansidev/counter-analytics-vue/pull/38) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
