@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 day ago)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
-- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (2 days ago)
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (2 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (2 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (2 days ago)
+- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (3 days ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.1.0](https://github.com/prismicio/prismic-client/releases/tag/v7.1.0), 2 days ago) - The official JavaScript + TypeScript client library for Prismic
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.6](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.6), 2 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.8](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.8), 2 days ago) - An opinionated Astro starter template
-- [withastro/astro](https://github.com/withastro/astro) ([astro@2.6.1](https://github.com/withastro/astro/releases/tag/astro%402.6.1), 3 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.47](https://github.com/astro-community/astro-compress/releases/tag/v1.1.47), 5 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdown-component@1.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdown-component%401.0.5), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.1.0](https://github.com/prismicio/prismic-client/releases/tag/v7.1.0), 3 days ago) - The official JavaScript + TypeScript client library for Prismic
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.0.6](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.0.6), 3 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.8](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.8), 3 days ago) - An opinionated Astro starter template
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.47](https://github.com/astro-community/astro-compress/releases/tag/v1.1.47), 6 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 
 #### 🔨 Latest Pull Requests I published
 
-- [build(dep): update @vitejs/plugin-vue to version ^1.6.5](https://github.com/ansidev/counter-analytics-vue/pull/48) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [build(dep): update @vitejs/plugin-vue to version ^4.2.3](https://github.com/ansidev/counter-analytics-vue/pull/47) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [Revert "chore(deps): update dependency vue to ^3.3.4"](https://github.com/ansidev/counter-analytics-vue/pull/46) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [build(dep): update vite-plugin-vue-markdown to version ^0.23.5](https://github.com/ansidev/counter-analytics-vue/pull/44) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 days ago)
-- [build(ex-deps): update typescript to version ^5.1.3](https://github.com/ansidev/counter-analytics-vue/pull/43) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 days ago)
+- [build(dep): update @vitejs/plugin-vue to version ^1.6.5](https://github.com/ansidev/counter-analytics-vue/pull/48) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 days ago)
+- [build(dep): update @vitejs/plugin-vue to version ^4.2.3](https://github.com/ansidev/counter-analytics-vue/pull/47) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 days ago)
+- [Revert "chore(deps): update dependency vue to ^3.3.4"](https://github.com/ansidev/counter-analytics-vue/pull/46) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 days ago)
+- [build(dep): update vite-plugin-vue-markdown to version ^0.23.5](https://github.com/ansidev/counter-analytics-vue/pull/44) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
+- [build(ex-deps): update typescript to version ^5.1.3](https://github.com/ansidev/counter-analytics-vue/pull/43) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
