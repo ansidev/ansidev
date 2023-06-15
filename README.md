@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (today)
+- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (today)
+- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (today)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (1 day ago)
-- [ghacts/gitflow](https://github.com/ghacts/gitflow) - GitHub Actions for automating gitflow (1 day ago)
-- [ansidev/sample-gitflow-release-workflows](https://github.com/ansidev/sample-gitflow-release-workflows) - Sample Gitflow release workflows using GitHub Actions and official GitHub CLI (1 day ago)
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
+- [ansidev/sample-gitflow-release-workflows](https://github.com/ansidev/sample-gitflow-release-workflows) - Sample Gitflow release workflows using GitHub Actions and official GitHub CLI (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/lit@2.1.0](https://github.com/withastro/astro/releases/tag/%40astrojs/lit%402.1.0), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.5](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.5), 1 day ago) - Solutions for LeetCode problems - Written by ansidev
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v1.0.9](https://github.com/ansidev/astro-basic-template/releases/tag/v1.0.9), 1 day ago) - An opinionated Astro starter template
-- [ansidev/sample-gitflow-release-workflows](https://github.com/ansidev/sample-gitflow-release-workflows) ([v1.1.5](https://github.com/ansidev/sample-gitflow-release-workflows/releases/tag/v1.1.5), 1 day ago) - Sample Gitflow release workflows using GitHub Actions and official GitHub CLI
-- [ghacts/gitflow](https://github.com/ghacts/gitflow) ([v0.0.6](https://github.com/ghacts/gitflow/releases/tag/v0.0.6), 1 day ago) - GitHub Actions for automating gitflow
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.0), 1 day ago) - GitHub Actions for manual deploying static site projects to Netlify
+- [ghacts/static-site](https://github.com/ghacts/static-site) ([v1.0.0](https://github.com/ghacts/static-site/releases/tag/v1.0.0), 1 day ago) - GitHub Actions for building and testing static site projects
+- [ghacts/go](https://github.com/ghacts/go) ([v1.0.0](https://github.com/ghacts/go/releases/tag/v1.0.0), 1 day ago) - GitHub Actions for building and testing Go projects
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/lit@2.1.0](https://github.com/withastro/astro/releases/tag/%40astrojs/lit%402.1.0), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.5](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.5), 2 days ago) - Solutions for LeetCode problems - Written by ansidev
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch release/2.2.5 into develop](https://github.com/ansidev/leetcode-blog/pull/152) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Release v2.2.5](https://github.com/ansidev/leetcode-blog/pull/151) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [fix: wrong github environment url](https://github.com/ansidev/leetcode-blog/pull/150) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Refactor deploy workflow](https://github.com/ansidev/leetcode-blog/pull/149) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Refactor gitflow workflows](https://github.com/ansidev/leetcode-blog/pull/148) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [Release v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/pull/1) on [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) (1 day ago)
+- [Release v1.0.0](https://github.com/ghacts/static-site/pull/1) on [ghacts/static-site](https://github.com/ghacts/static-site) (1 day ago)
+- [Release v1.0.0](https://github.com/ghacts/go/pull/1) on [ghacts/go](https://github.com/ghacts/go) (1 day ago)
+- [fix(github-workflow): adjust trigger deploy condition](https://github.com/ansidev/awesome-nuxt/pull/149) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [feat(github-workflow): automate deploying site to Netlify](https://github.com/ansidev/awesome-nuxt/pull/148) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-- [How to set GitHub job environment dynamically?](https://ansidev.xyz/posts/2023-02-28-how-to-set-github-job-environment-dynamically)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
