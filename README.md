@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add new post](https://github.com/ansidev/blog/pull/506) on [ansidev/blog](https://github.com/ansidev/blog) (today)
 - [Add new post](https://github.com/ansidev/blog/pull/503) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
 - [fix(github-workflow): update parameter name](https://github.com/ansidev/astro-basic-template/pull/214) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
 - [Release v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/pull/1) on [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) (3 days ago)
 - [Release v1.0.0](https://github.com/ghacts/static-site/pull/1) on [ghacts/static-site](https://github.com/ghacts/static-site) (3 days ago)
-- [Release v1.0.0](https://github.com/ghacts/go/pull/1) on [ghacts/go](https://github.com/ghacts/go) (3 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-- [How to solve Alt key binding issue on macOS?](https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
