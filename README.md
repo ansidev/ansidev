@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (2 days ago)
-- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (2 days ago)
-- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (2 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (3 days ago)
+- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (3 days ago)
+- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.0), 3 days ago) - GitHub Actions for manual deploying static site projects to Netlify
-- [ghacts/static-site](https://github.com/ghacts/static-site) ([v1.0.0](https://github.com/ghacts/static-site/releases/tag/v1.0.0), 3 days ago) - GitHub Actions for building and testing static site projects
-- [ghacts/go](https://github.com/ghacts/go) ([v1.0.0](https://github.com/ghacts/go/releases/tag/v1.0.0), 3 days ago) - GitHub Actions for building and testing Go projects
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/lit@2.1.0](https://github.com/withastro/astro/releases/tag/%40astrojs/lit%402.1.0), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.5](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.5), 4 days ago) - Solutions for LeetCode problems - Written by ansidev
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.0), 4 days ago) - GitHub Actions for manual deploying static site projects to Netlify
+- [ghacts/static-site](https://github.com/ghacts/static-site) ([v1.0.0](https://github.com/ghacts/static-site/releases/tag/v1.0.0), 4 days ago) - GitHub Actions for building and testing static site projects
+- [ghacts/go](https://github.com/ghacts/go) ([v1.0.0](https://github.com/ghacts/go/releases/tag/v1.0.0), 4 days ago) - GitHub Actions for building and testing Go projects
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/lit@2.1.0](https://github.com/withastro/astro/releases/tag/%40astrojs/lit%402.1.0), 5 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.5](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.5), 5 days ago) - Solutions for LeetCode problems - Written by ansidev
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add new post](https://github.com/ansidev/blog/pull/506) on [ansidev/blog](https://github.com/ansidev/blog) (today)
-- [Add new post](https://github.com/ansidev/blog/pull/503) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [fix(github-workflow): update parameter name](https://github.com/ansidev/astro-basic-template/pull/214) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [Release v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/pull/1) on [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) (3 days ago)
-- [Release v1.0.0](https://github.com/ghacts/static-site/pull/1) on [ghacts/static-site](https://github.com/ghacts/static-site) (3 days ago)
+- [Add new post](https://github.com/ansidev/blog/pull/506) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [Add new post](https://github.com/ansidev/blog/pull/503) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [fix(github-workflow): update parameter name](https://github.com/ansidev/astro-basic-template/pull/214) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [Release v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/pull/1) on [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) (4 days ago)
+- [Release v1.0.0](https://github.com/ghacts/static-site/pull/1) on [ghacts/static-site](https://github.com/ghacts/static-site) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
