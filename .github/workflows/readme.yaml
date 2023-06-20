@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_github_status:
-    name: Update GitHub status
+  update_readme:
+    name: Update README.md
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,27 +31,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
         run: |
-          export PATH=${PATH}:`go env GOPATH`/bin
+          GO_PATH=$(go env GOPATH)/bin
+          export PATH=${PATH}:${GO_PATH}
           markscribe -write README.md README.md.tpl
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "build: generate GitHub status"
-          commit_options: "--signoff"
-
-  update_latest_blog_posts:
-    name: Update latest blog posts
-    needs: update_github_status
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.ref }}
 
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://ansidev.xyz/feed.rss,https://leetcode.ansidev.xyz/rss.xml"
           max_post_count: 7
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "build: generate GitHub status"
+          commit_options: "--signoff"
