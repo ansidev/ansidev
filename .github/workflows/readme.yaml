@@ -36,14 +36,14 @@ jobs:
           markscribe -write README.md README.md.tpl
           git add README.md
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "build: generate GitHub status"
-          commit_options: "--signoff"
-
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://ansidev.xyz/feed.rss,https://leetcode.ansidev.xyz/rss.xml"
           max_post_count: 7
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "build: generate GitHub status"
+          commit_options: "--signoff"
