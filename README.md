@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/dotfiles](https://github.com/ansidev/dotfiles) (2 days ago)
-- [ansidev/vscode-remove-vietnamese-tones](https://github.com/ansidev/vscode-remove-vietnamese-tones) - VSCode extension helps you to remove Vietnamese tones from selected text (3 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (6 days ago)
+- [ansidev/dotfiles](https://github.com/ansidev/dotfiles) (3 days ago)
+- [ansidev/vscode-remove-vietnamese-tones](https://github.com/ansidev/vscode-remove-vietnamese-tones) - VSCode extension helps you to remove Vietnamese tones from selected text (4 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (6 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.7.2](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.7.2), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.7.2](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.7.2), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.49](https://github.com/astro-community/astro-compress/releases/tag/v1.1.49), 1 week ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.2.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.2.0), 2 weeks ago) - A snazzy bufferline for Neovim
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.0), 1 month ago) - GitHub Actions for manual deploying static site projects to Netlify
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: update post](https://github.com/ansidev/blog/pull/552) on [ansidev/blog](https://github.com/ansidev/blog) (4 days ago)
-- [content(post): add new post](https://github.com/ansidev/blog/pull/550) on [ansidev/blog](https://github.com/ansidev/blog) (4 days ago)
+- [update renovate config](https://github.com/ansidev/awesome-nuxt/pull/159) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [chore: update post](https://github.com/ansidev/blog/pull/552) on [ansidev/blog](https://github.com/ansidev/blog) (5 days ago)
+- [content(post): add new post](https://github.com/ansidev/blog/pull/550) on [ansidev/blog](https://github.com/ansidev/blog) (5 days ago)
 - [fix(vitest): correct vitest config](https://github.com/ansidev/astro-basic-template/pull/225) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (3 weeks ago)
 - [fix(github-workflow): update parameter name](https://github.com/ansidev/leetcode-blog/pull/166) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 weeks ago)
-- [Add new post](https://github.com/ansidev/blog/pull/506) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
