@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
-- [ansidev/dotfiles](https://github.com/ansidev/dotfiles) (6 days ago)
-- [ansidev/vscode-remove-vietnamese-tones](https://github.com/ansidev/vscode-remove-vietnamese-tones) - VSCode extension helps you to remove Vietnamese tones from selected text (1 week ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
+- [ansidev/vue-ui-ideas](https://github.com/ansidev/vue-ui-ideas) - Vue UI Ideas (1 day ago)
+- [ansidev/vscode-remove-vietnamese-tones](https://github.com/ansidev/vscode-remove-vietnamese-tones) - VSCode extension helps you to remove Vietnamese tones from selected text (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [safestudio/seat-diagram-app](https://github.com/safestudio/seat-diagram-app) - Seat Digram App (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.7.3](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.7.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.3.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.3.0), 1 day ago) - A snazzy bufferline for Neovim
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@2.5.0](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%402.5.0), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.3.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.3.0), 2 days ago) - A snazzy bufferline for Neovim
 - [astro-community/astro-compress](https://github.com/astro-community/astro-compress) ([v1.1.49](https://github.com/astro-community/astro-compress/releases/tag/v1.1.49), 2 weeks ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.0), 1 month ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ghacts/static-site](https://github.com/ghacts/static-site) ([v1.0.0](https://github.com/ghacts/static-site/releases/tag/v1.0.0), 1 month ago) - GitHub Actions for building and testing static site projects
 
 #### 🔨 Latest Pull Requests I published
 
-- [update renovate config](https://github.com/ansidev/awesome-nuxt/pull/159) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
+- [update renovate config](https://github.com/ansidev/awesome-nuxt/pull/159) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (5 days ago)
 - [chore: update post](https://github.com/ansidev/blog/pull/552) on [ansidev/blog](https://github.com/ansidev/blog) (1 week ago)
 - [content(post): add new post](https://github.com/ansidev/blog/pull/550) on [ansidev/blog](https://github.com/ansidev/blog) (1 week ago)
 - [fix(vitest): correct vitest config](https://github.com/ansidev/astro-basic-template/pull/225) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (3 weeks ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
