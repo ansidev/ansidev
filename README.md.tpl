@@ -62,11 +62,11 @@
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="ansidev | Email" />
 </a>
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"       alt="ansidev | GitHub" />][github]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.svg" alt="ansidev | Telegram" />][telegram]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.svg"     alt="ansidev | Facebook" />][facebook]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg"     alt="ansidev | LinkedIn" />][linkedin]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.svg"       alt="ansidev | Reddit" />][reddit]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.svg"      alt="ansidev | Twitter" />][twitter]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.png" alt="ansidev | Telegram" />][telegram]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.png"     alt="ansidev | Facebook" />][facebook]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.png"     alt="ansidev | LinkedIn" />][linkedin]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.png"       alt="ansidev | Reddit" />][reddit]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.png"      alt="ansidev | Twitter" />][twitter]
 
 <br/>
 <br/>
