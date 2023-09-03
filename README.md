@@ -17,7 +17,7 @@
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 weeks ago)
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (3 weeks ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 weeks ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (4 weeks ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@3.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%403.0.1), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.0.15](https://github.com/astro-community/AstroCompress/releases/tag/v2.0.15), 1 day ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@3.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%403.0.1), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.0.15](https://github.com/astro-community/AstroCompress/releases/tag/v2.0.15), 2 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.2.0](https://github.com/prismicio/prismic-client/releases/tag/v7.2.0), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.6](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.6), 3 weeks ago) - Solutions for LeetCode problems - Written by ansidev
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.3.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.3.0), 1 month ago) - A snazzy bufferline for Neovim
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(deps): upgrade astro-compress to v2.0.14](https://github.com/ansidev/leetcode-blog/pull/285) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (5 days ago)
-- [fix(deps): upgrade astro-compress to v2.0.14](https://github.com/ansidev/astro-basic-template/pull/306) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (5 days ago)
-- [fix(workflow): correct parameter name](https://github.com/ansidev/counter-analytics-vue/pull/78) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (6 days ago)
+- [fix(deps): upgrade astro-compress to v2.0.14](https://github.com/ansidev/leetcode-blog/pull/285) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (6 days ago)
+- [fix(deps): upgrade astro-compress to v2.0.14](https://github.com/ansidev/astro-basic-template/pull/306) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (6 days ago)
+- [fix(workflow): correct parameter name](https://github.com/ansidev/counter-analytics-vue/pull/78) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 week ago)
 - [Merge branch release/2.2.6 into develop](https://github.com/ansidev/leetcode-blog/pull/249) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 weeks ago)
 - [Release v2.2.6](https://github.com/ansidev/leetcode-blog/pull/248) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
