@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([astro@3.0.12](https://github.com/withastro/astro/releases/tag/astro%403.0.12), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/cloudflare@7.1.0](https://github.com/withastro/astro/releases/tag/%40astrojs/cloudflare%407.1.0), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v2.0.0](https://github.com/ansidev/astro-basic-template/releases/tag/v2.0.0), 1 week ago) - An opinionated Astro starter template
 - [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.0.15](https://github.com/astro-community/AstroCompress/releases/tag/v2.0.15), 1 week ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.2.0](https://github.com/prismicio/prismic-client/releases/tag/v7.2.0), 2 weeks ago) - The official JavaScript + TypeScript client library for Prismic
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
