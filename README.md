@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@3.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%403.0.2), 3 days ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/cloudflare@7.3.1](https://github.com/withastro/astro/releases/tag/%40astrojs/cloudflare%407.3.1), 1 day ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v6.9.0](https://github.com/prismicio/prismic-client/releases/tag/v6.9.0), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.4.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.4.0), 1 week ago) - A snazzy bufferline for Neovim
 - [South-Paw/action-netlify-cli](https://github.com/South-Paw/action-netlify-cli) ([2.0.0](https://github.com/South-Paw/action-netlify-cli/releases/tag/2.0.0), 2 weeks ago) - 🙌 Netlify deployments and CLI via GitHub actions
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
