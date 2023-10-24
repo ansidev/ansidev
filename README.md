@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 days ago)
-- [ansidev/nuxt-bpmn-demo](https://github.com/ansidev/nuxt-bpmn-demo) - A NuxtJS based BPMN modeler (3 days ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (4 days ago)
-- [ansidev/vue-ui-ideas](https://github.com/ansidev/vue-ui-ideas) - Vue UI Ideas (6 days ago)
-- [safestudio/seat-diagram-app](https://github.com/safestudio/seat-diagram-app) - Seat Digram App (6 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (3 days ago)
+- [ansidev/nuxt-bpmn-demo](https://github.com/ansidev/nuxt-bpmn-demo) - A NuxtJS based BPMN modeler (4 days ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (5 days ago)
+- [ansidev/vue-ui-ideas](https://github.com/ansidev/vue-ui-ideas) - Vue UI Ideas (1 week ago)
+- [safestudio/seat-diagram-app](https://github.com/safestudio/seat-diagram-app) - Seat Digram App (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/sitemap@3.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/sitemap%403.0.2), 5 days ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.1.5](https://github.com/astro-community/AstroCompress/releases/tag/v2.1.5), 1 day ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vue@3.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/vue%403.0.2), 1 day ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [prismicio/prismic-client](https://github.com/prismicio/prismic-client) ([v7.3.1](https://github.com/prismicio/prismic-client/releases/tag/v7.3.1), 1 week ago) - The official JavaScript + TypeScript client library for Prismic
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.4.0](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.4.0), 1 month ago) - A snazzy bufferline for Neovim
 - [South-Paw/action-netlify-cli](https://github.com/South-Paw/action-netlify-cli) ([2.0.0](https://github.com/South-Paw/action-netlify-cli/releases/tag/2.0.0), 1 month ago) - 🙌 Netlify deployments and CLI via GitHub actions
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v2.0.0](https://github.com/ansidev/astro-basic-template/releases/tag/v2.0.0), 1 month ago) - An opinionated Astro starter template
 
 #### 🔨 Latest Pull Requests I published
 
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
