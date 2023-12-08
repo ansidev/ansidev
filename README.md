@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 days ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (4 days ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (2 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (4 days ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (5 days ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 week ago)
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (2 weeks ago)
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([astro@4.0.3](https://github.com/withastro/astro/releases/tag/astro%404.0.3), 1 day ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.0.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.0.0), 1 day ago) - An opinionated Astro starter template
-- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.4.1](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.4.1), 1 day ago) - A snazzy bufferline for Neovim
-- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.2.4](https://github.com/astro-community/AstroCompress/releases/tag/v2.2.4), 3 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.0](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.0), 4 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [withastro/astro](https://github.com/withastro/astro) ([astro@4.0.3](https://github.com/withastro/astro/releases/tag/astro%404.0.3), 2 days ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.0.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.0.0), 2 days ago) - An opinionated Astro starter template
+- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.4.1](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.4.1), 2 days ago) - A snazzy bufferline for Neovim
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.2.4](https://github.com/astro-community/AstroCompress/releases/tag/v2.2.4), 4 days ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.0](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.0), 5 days ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch release/3.0.0 into develop](https://github.com/ansidev/astro-basic-template/pull/405) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [Release v3.0.0](https://github.com/ansidev/astro-basic-template/pull/404) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
-- [fix: update vuepress packages](https://github.com/ansidev/awesome-nuxt/pull/207) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
-- [build(deps): update vue to version 3.3.9](https://github.com/ansidev/awesome-nuxt/pull/206) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
-- [Merge branch 'release/2.1.0' into develop](https://github.com/ansidev/awesome-nuxt/pull/204) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
+- [Merge branch release/3.0.0 into develop](https://github.com/ansidev/astro-basic-template/pull/405) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [Release v3.0.0](https://github.com/ansidev/astro-basic-template/pull/404) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (2 days ago)
+- [fix: update vuepress packages](https://github.com/ansidev/awesome-nuxt/pull/207) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (5 days ago)
+- [build(deps): update vue to version 3.3.9](https://github.com/ansidev/awesome-nuxt/pull/206) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (5 days ago)
+- [Merge branch 'release/2.1.0' into develop](https://github.com/ansidev/awesome-nuxt/pull/204) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (5 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
