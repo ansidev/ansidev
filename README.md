@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (today)
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (today)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (today)
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (3 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (5 days ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (6 days ago)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 week ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch release/3.0.0 into develop](https://github.com/ansidev/astro-basic-template/pull/405) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (3 days ago)
-- [Release v3.0.0](https://github.com/ansidev/astro-basic-template/pull/404) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (3 days ago)
-- [fix: update vuepress packages](https://github.com/ansidev/awesome-nuxt/pull/207) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (6 days ago)
-- [build(deps): update vue to version 3.3.9](https://github.com/ansidev/awesome-nuxt/pull/206) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (6 days ago)
-- [Merge branch 'release/2.1.0' into develop](https://github.com/ansidev/awesome-nuxt/pull/204) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (6 days ago)
+- [build(ex-deps): update example dependencies](https://github.com/ansidev/counter-analytics-vue/pull/90) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): bump vue version from ^3.3.4 to ^3.3.11](https://github.com/ansidev/counter-analytics-vue/pull/89) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [Merge changes from branch `main` into `develop` ](https://github.com/ansidev/counter-analytics-vue/pull/88) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [fix: update renovate.json](https://github.com/ansidev/counter-analytics-vue/pull/87) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [fix: update input parameter `site-id` to `site`](https://github.com/ansidev/counter-analytics-vue/pull/86) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
