@@ -13,27 +13,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (4 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (6 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (6 days ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 weeks ago)
-- [ansidev/xbar-plugins](https://github.com/ansidev/xbar-plugins) - ansidev's xbar plugins (3 weeks ago)
+- [ansidev/dotfiles](https://github.com/ansidev/dotfiles) - ansidev's dotfiles (1 day ago)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (5 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/dotfiles](https://github.com/ansidev/dotfiles) - ansidev's dotfiles
 - [ansidev/xbar-plugins](https://github.com/ansidev/xbar-plugins) - ansidev's xbar plugins
-- [ansidev/dotfiles](https://github.com/ansidev/dotfiles)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script
 - [ansidev/changelog-config-starter](https://github.com/ansidev/changelog-config-starter) - An opinionated configuration for changelog management
 - [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce)
-- [ansidev/tar-xz](https://github.com/ansidev/tar-xz) - A simple Go module for decompressing a tar.xz file
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@6.1.1](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%406.1.1), 5 days ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@6.1.1](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%406.1.1), 6 days ago) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) ([v2.2.5](https://github.com/astro-community/AstroCompress/releases/tag/v2.2.5), 2 weeks ago) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.0.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.0.0), 3 weeks ago) - An opinionated Astro starter template
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.4.1](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.4.1), 3 weeks ago) - A snazzy bufferline for Neovim
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.0](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.0), 4 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.0](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.0), 1 month ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
