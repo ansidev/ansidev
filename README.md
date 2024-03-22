@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Playform/AstroCompress](https://github.com/Playform/AstroCompress) ([v2.1.15](https://github.com/Playform/AstroCompress/releases/tag/v2.1.15), 6 days ago) - 🗜️ Compress Astro.
+- [Playform/AstroCompress](https://github.com/Playform/AstroCompress) ([v2.1.15](https://github.com/Playform/AstroCompress/releases/tag/v2.1.15), 1 week ago) - 🗜️ Compress Astro.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.5.2](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.5.2), 2 weeks ago) - A snazzy bufferline for Neovim
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.0), 3 weeks ago) - An opinionated Astro starter template
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.1](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.1), 2 months ago) - GitHub Actions for manual deploying static site projects to Netlify
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
