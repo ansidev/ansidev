@@ -13,23 +13,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (1 week ago)
+- [ansidev/english-notebook](https://github.com/ansidev/english-notebook) (1 day ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
+- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (1 week ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (3 weeks ago)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (1 month ago)
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 month ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/english-notebook](https://github.com/ansidev/english-notebook)
 - [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks
 - [ansidev/xbar-plugins](https://github.com/ansidev/xbar-plugins) - ansidev's xbar plugins
 - [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script
-- [ansidev/changelog-config-starter](https://github.com/ansidev/changelog-config-starter) - An opinionated configuration for changelog management
 
 #### 🔭 Latest releases I've contributed to
 
-- [Playform/Compress](https://github.com/Playform/Compress) ([AstroCompress/v2.2.22](https://github.com/Playform/Compress/releases/tag/AstroCompress/v2.2.22), 2 days ago) - 🗜️ Compress.
+- [Playform/Compress](https://github.com/Playform/Compress) ([AstroCompress/v2.2.22](https://github.com/Playform/Compress/releases/tag/AstroCompress/v2.2.22), 3 days ago) - 🗜️ Compress.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ([v4.5.2](https://github.com/akinsho/bufferline.nvim/releases/tag/v4.5.2), 1 month ago) - A snazzy bufferline for Neovim
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.0), 1 month ago) - An opinionated Astro starter template
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v1.0.1](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v1.0.1), 3 months ago) - GitHub Actions for manual deploying static site projects to Netlify
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Patchfix: 20240325](https://github.com/ansidev/leetcode-blog/pull/545) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
+- [Patchfix: 20240325](https://github.com/ansidev/leetcode-blog/pull/545) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (2 weeks ago)
 - [Patchfix - 20240227](https://github.com/ansidev/leetcode-blog/pull/506) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 month ago)
 - [Patchfix: Migrate husky configurations](https://github.com/ansidev/astro-basic-template/pull/424) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 month ago)
 - [Merge branch release/3.1.0 into develop](https://github.com/ansidev/astro-basic-template/pull/422) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 month ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
