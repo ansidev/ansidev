@@ -87,7 +87,7 @@
 [facebook]: https://facebook.com/leminhtri.py
 [telegram]: https://t.me/ansidev
 [twitter]: https://twitter.com/ansidev
-[linkedin]: https://linkedin.com/in/tri-le-minh-1b05bb51/
+[linkedin]: https://linkedin.com/in/ansidev/
 [reddit]: https://reddit.com/u/ansidev
 [paypal]: https://paypal.me/ansidev
 [kofi]: https://ko-fi.com/ansidev
