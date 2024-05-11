@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ghacts/.github](https://github.com/ghacts/.github) - GitHub Actions by ansidev (1 day ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
+- [ghacts/.github](https://github.com/ghacts/.github) - GitHub Actions by ansidev (2 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
 - [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
 - [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (1 week ago)
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) ([AstroCompress/v2.2.23](https://github.com/PlayForm/Compress/releases/tag/AstroCompress/v2.2.23), 1 day ago) - 🗜️ Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) ([AstroCompress/v2.2.23](https://github.com/PlayForm/Compress/releases/tag/AstroCompress/v2.2.23), 2 days ago) - 🗜️ Compress —
 - [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 1 week ago) - GitHub Actions for building and testing static site projects
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 week ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) ([v7.1.0](https://github.com/GoogleChrome/workbox/releases/tag/v7.1.0), 2 weeks ago) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(deps): upgrade vue-i18n version, remove @intlify/unplugin-vue-i18n](https://github.com/ansidev/blog/pull/861) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [Fix VSCode settings](https://github.com/ansidev/blog/pull/860) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [feat(github-actions): add GitHub Actions](https://github.com/ansidev/blog/pull/857) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [fix: override method com.intellij.plugins.thrift.editor.GoToThriftDefinition#getActionUpdateThread](https://github.com/ansidev/intellij-thrift/pull/3) on [ansidev/intellij-thrift](https://github.com/ansidev/intellij-thrift) (6 days ago)
-- [Fix: 2024.1 support](https://github.com/ansidev/intellij-thrift/pull/2) on [ansidev/intellij-thrift](https://github.com/ansidev/intellij-thrift) (6 days ago)
+- [Patchfix 20240511](https://github.com/ansidev/blog/pull/894) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [feat(dep): use @unhead/vue](https://github.com/ansidev/blog/pull/891) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [build(deps): update @vitejs/plugin-vue to version ^5.0.4](https://github.com/ansidev/blog/pull/890) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [feat(dev): add vite-plugin-vue-devtools](https://github.com/ansidev/blog/pull/889) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [fix(deps): update dependency versions in package.json](https://github.com/ansidev/blog/pull/884) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
