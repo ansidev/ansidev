@@ -14,26 +14,26 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (5 days ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (5 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
+- [ansidev/vitepress-starter-template](https://github.com/ansidev/vitepress-starter-template) - VitePress Starter Template (1 day ago)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (6 days ago)
+- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (6 days ago)
+- [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (1 week ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/vitepress-starter-template](https://github.com/ansidev/vitepress-starter-template) - VitePress Starter Template
 - [ansidev/english-notebook](https://github.com/ansidev/english-notebook) - ansidev's English notebook
 - [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks
 - [ansidev/xbar-plugins](https://github.com/ansidev/xbar-plugins) - ansidev's xbar plugins
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script
 
 #### 🔭 Latest releases I've contributed to
 
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) ([Compress/v0.0.5](https://github.com/PlayForm/Compress/releases/tag/Compress/v0.0.5), 1 day ago) - 🗜️ Compress —
-- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 2 weeks ago) - GitHub Actions for building and testing static site projects
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 2 weeks ago) - GitHub Actions for manual deploying static site projects to Netlify
+- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 3 weeks ago) - GitHub Actions for building and testing static site projects
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 3 weeks ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) ([v7.1.0](https://github.com/GoogleChrome/workbox/releases/tag/v7.1.0), 3 weeks ago) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.0), 2 months ago) - An opinionated Astro starter template
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.0](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.0), 5 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
