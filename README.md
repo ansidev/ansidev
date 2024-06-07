@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (today)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (today)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (5 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (6 days ago)
 - [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (1 week ago)
 
 #### 🌱 My latest projects
@@ -39,21 +39,13 @@
 
 - [Patchfix: 20240514](https://github.com/ansidev/template-vite-vue-tailwind/pull/54) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (3 weeks ago)
 - [Feature: Disqus comment](https://github.com/ansidev/blog/pull/898) on [ansidev/blog](https://github.com/ansidev/blog) (3 weeks ago)
-- [Patchfix 20240511](https://github.com/ansidev/blog/pull/894) on [ansidev/blog](https://github.com/ansidev/blog) (3 weeks ago)
-- [feat(dep): use @unhead/vue](https://github.com/ansidev/blog/pull/891) on [ansidev/blog](https://github.com/ansidev/blog) (3 weeks ago)
-- [build(deps): update @vitejs/plugin-vue to version ^5.0.4](https://github.com/ansidev/blog/pull/890) on [ansidev/blog](https://github.com/ansidev/blog) (3 weeks ago)
+- [Patchfix 20240511](https://github.com/ansidev/blog/pull/894) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
+- [feat(dep): use @unhead/vue](https://github.com/ansidev/blog/pull/891) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
+- [build(deps): update @vitejs/plugin-vue to version ^5.0.4](https://github.com/ansidev/blog/pull/890) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
