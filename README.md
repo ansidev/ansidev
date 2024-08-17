@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 day ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (2 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
 - [ansidev/english-notebook](https://github.com/ansidev/english-notebook) - ansidev's English notebook (2 months ago)
 - [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (2 months ago)
 
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(deps): update dependency vue-tsc to v2.0.29](https://github.com/ansidev/counter-analytics-vue/pull/151) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [chore: use NodeJS v20 for CI environment](https://github.com/ansidev/counter-analytics-vue/pull/150) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [chore(deps): update dependency husky to v9.1.4](https://github.com/ansidev/counter-analytics-vue/pull/149) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [upgrade pnpm version to v9.7.0](https://github.com/ansidev/counter-analytics-vue/pull/148) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
+- [chore(deps): update dependency vue-tsc to v2.0.29](https://github.com/ansidev/counter-analytics-vue/pull/151) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [chore: use NodeJS v20 for CI environment](https://github.com/ansidev/counter-analytics-vue/pull/150) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [chore(deps): update dependency husky to v9.1.4](https://github.com/ansidev/counter-analytics-vue/pull/149) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [upgrade pnpm version to v9.7.0](https://github.com/ansidev/counter-analytics-vue/pull/148) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
 - [build(deps): update sass to version 1.77.8](https://github.com/ansidev/leetcode-blog/pull/765) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
