@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 days ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (today)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (4 days ago)
 - [ansidev/english-notebook](https://github.com/ansidev/english-notebook) - ansidev's English notebook (6 months ago)
-- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo) (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 1 day ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) ([v7.3.0](https://github.com/GoogleChrome/workbox/releases/tag/v7.3.0), 1 month ago) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 7 months ago) - GitHub Actions for building and testing static site projects
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 7 months ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.0), 10 months ago) - An opinionated Astro starter template
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 2 years ago) - Swetrix Tracking integration for Vue v3
 
 #### 🔨 Latest Pull Requests I published
 
-- [build(deps): update happy-dom to version 15.11.6](https://github.com/ansidev/blog/pull/1436) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
-- [build(deps): update vite-ssg-sitemap to version 0.8.1](https://github.com/ansidev/blog/pull/1435) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
-- [build(deps): update husky to version 9.1.7](https://github.com/ansidev/blog/pull/1434) on [ansidev/blog](https://github.com/ansidev/blog) (4 weeks ago)
-- [fix(deps): update pnpm-lock.yaml](https://github.com/ansidev/leetcode-blog/pull/816) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 months ago)
-- [chore(deps): update dependency vue-tsc to v2.0.29](https://github.com/ansidev/counter-analytics-vue/pull/151) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 months ago)
+- [Merge branch 'release/2.1.2' into develop](https://github.com/ansidev/awesome-nuxt/pull/277) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Release v2.1.2](https://github.com/ansidev/awesome-nuxt/pull/276) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [build(deps): upgrade `caniuse-lite` and `vuepress` packages](https://github.com/ansidev/awesome-nuxt/pull/275) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Merge branch 'release/2.1.1' into develop](https://github.com/ansidev/awesome-nuxt/pull/274) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [Release v2.1.1](https://github.com/ansidev/awesome-nuxt/pull/273) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
