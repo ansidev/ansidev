@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [build(deps): update vue-tsc to version ^2.2.0](https://github.com/ansidev/counter-analytics-vue/pull/182) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): bump @commitlint packages version](https://github.com/ansidev/counter-analytics-vue/pull/181) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): update tsup to version 8.3.5](https://github.com/ansidev/counter-analytics-vue/pull/180) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [Feature: Task files](https://github.com/ansidev/counter-analytics-vue/pull/179) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
 - [fix(github-workflow): upgrade Node version to 22](https://github.com/ansidev/counter-analytics-vue/pull/178) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [Patch: 20250107](https://github.com/ansidev/vitepress-theme-ansidev/pull/17) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 week ago)
-- [fix: page /projects](https://github.com/ansidev/vitepress-theme-ansidev/pull/14) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 weeks ago)
-- [Add pages /archives and /archives/{year}](https://github.com/ansidev/vitepress-theme-ansidev/pull/11) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 weeks ago)
-- [Feature: Deploy to Netlify](https://github.com/ansidev/vitepress-theme-ansidev/pull/9) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
