@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (today)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (today)
 - [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (5 days ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (1 week ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [build(deps): update vue-tsc to version ^2.2.0](https://github.com/ansidev/counter-analytics-vue/pull/182) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [build(deps): bump @commitlint packages version](https://github.com/ansidev/counter-analytics-vue/pull/181) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [build(deps): update tsup to version 8.3.5](https://github.com/ansidev/counter-analytics-vue/pull/180) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [Feature: Task files](https://github.com/ansidev/counter-analytics-vue/pull/179) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [fix(github-workflow): upgrade Node version to 22](https://github.com/ansidev/counter-analytics-vue/pull/178) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [Support for workspace folders and embedded projects](https://github.com/ansidev/project.nvim/pull/4) on [ansidev/project.nvim](https://github.com/ansidev/project.nvim) (today)
+- [build(deps): update eslint to version 9.18.0](https://github.com/ansidev/counter-analytics-vue/pull/191) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): update husky to version 9.1.7](https://github.com/ansidev/counter-analytics-vue/pull/190) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): update @vitejs/plugin-vue to version 5.2.1](https://github.com/ansidev/counter-analytics-vue/pull/189) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
+- [build(deps): update unplugin-vue-markdown to version 28.1.0](https://github.com/ansidev/counter-analytics-vue/pull/188) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (today)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
