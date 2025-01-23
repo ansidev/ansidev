@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 day ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 days ago)
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (4 days ago)
 - [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (2 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 4 weeks ago) - 🎉 A curated list of awesome things related to Nuxt.js
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 1 month ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) ([v7.3.0](https://github.com/GoogleChrome/workbox/releases/tag/v7.3.0), 2 months ago) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 8 months ago) - GitHub Actions for building and testing static site projects
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 8 months ago) - GitHub Actions for manual deploying static site projects to Netlify
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Support for workspace folders and embedded projects](https://github.com/ansidev/project.nvim/pull/4) on [ansidev/project.nvim](https://github.com/ansidev/project.nvim) (3 days ago)
-- [build(deps): update eslint to version 9.18.0](https://github.com/ansidev/counter-analytics-vue/pull/191) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [build(deps): update husky to version 9.1.7](https://github.com/ansidev/counter-analytics-vue/pull/190) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [build(deps): update @vitejs/plugin-vue to version 5.2.1](https://github.com/ansidev/counter-analytics-vue/pull/189) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
-- [build(deps): update unplugin-vue-markdown to version 28.1.0](https://github.com/ansidev/counter-analytics-vue/pull/188) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 days ago)
+- [Support for workspace folders and embedded projects](https://github.com/ansidev/project.nvim/pull/4) on [ansidev/project.nvim](https://github.com/ansidev/project.nvim) (4 days ago)
+- [build(deps): update eslint to version 9.18.0](https://github.com/ansidev/counter-analytics-vue/pull/191) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [build(deps): update husky to version 9.1.7](https://github.com/ansidev/counter-analytics-vue/pull/190) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [build(deps): update @vitejs/plugin-vue to version 5.2.1](https://github.com/ansidev/counter-analytics-vue/pull/189) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [build(deps): update unplugin-vue-markdown to version 28.1.0](https://github.com/ansidev/counter-analytics-vue/pull/188) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
