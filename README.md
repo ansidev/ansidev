@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (6 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (6 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (1 week ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (1 week ago)
 - [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (2 weeks ago)
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 month ago)
@@ -31,8 +31,8 @@
 
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 2 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) ([v7.3.0](https://github.com/GoogleChrome/workbox/releases/tag/v7.3.0), 3 months ago) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 9 months ago) - GitHub Actions for building and testing static site projects
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 9 months ago) - GitHub Actions for manual deploying static site projects to Netlify
+- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 10 months ago) - GitHub Actions for building and testing static site projects
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 10 months ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.0](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.0), 1 year ago) - An opinionated Astro starter template
 
 #### 🔨 Latest Pull Requests I published
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
