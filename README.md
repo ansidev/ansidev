@@ -30,8 +30,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 4 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
-- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 11 months ago) - GitHub Actions for building and testing static site projects
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 11 months ago) - GitHub Actions for manual deploying static site projects to Netlify
+- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for building and testing static site projects
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 2 years ago) - Swetrix Tracking integration for Vue v3
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v1.0.0](https://github.com/ansidev/counter-analytics-vue/releases/tag/v1.0.0), 2 years ago) - Counter Analytics integration for Vue v3
 
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
