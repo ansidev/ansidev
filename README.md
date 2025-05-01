@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1077) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
+- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1076) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
 - [Merge branch release/3.0.0 into develop](https://github.com/ansidev/leetcode-blog/pull/1075) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
 - [Release v3.0.0](https://github.com/ansidev/leetcode-blog/pull/1074) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
 - [Feature: Upgrade TailwindCSS from v3 to v4](https://github.com/ansidev/leetcode-blog/pull/1072) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (today)
-- [Merge branch hotfix/2.2.7 into develop](https://github.com/ansidev/leetcode-blog/pull/1069) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
-- [Hotfix v2.2.7](https://github.com/ansidev/leetcode-blog/pull/1068) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-- [Tip for rcmd macOS](https://ansidev.xyz/posts/2023-04-18-tip-for-rcmd-macos)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
