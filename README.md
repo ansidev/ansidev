@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (1 day ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 day ago)
 - [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (2 weeks ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 month ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 months ago)
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (2 months ago)
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v2.2.7](https://github.com/ansidev/leetcode-blog/releases/tag/v2.2.7), 1 day ago) - Solutions for LeetCode problems - Written by ansidev
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 1 day ago) - An opinionated Astro starter template
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 4 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
-- [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for building and testing static site projects
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 2 years ago) - Swetrix Tracking integration for Vue v3
-- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v1.0.0](https://github.com/ansidev/counter-analytics-vue/releases/tag/v1.0.0), 2 years ago) - Counter Analytics integration for Vue v3
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(config): update renovate.json](https://github.com/ansidev/template-vite-vue-tailwind/pull/111) on [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) (2 weeks ago)
-- [Patchfix 20250216](https://github.com/ansidev/blog/pull/1665) on [ansidev/blog](https://github.com/ansidev/blog) (2 months ago)
-- [feat(plugin-pagefind): add pagefind plugin](https://github.com/ansidev/vitepress-theme-ansidev/pull/56) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 months ago)
-- [Add demo projects](https://github.com/ansidev/vitepress-theme-ansidev/pull/49) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 months ago)
-- [Fix: make the projects by technology filter compatible with mpa build mode](https://github.com/ansidev/vitepress-theme-ansidev/pull/48) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 months ago)
+- [Merge branch hotfix/2.2.7 into develop](https://github.com/ansidev/leetcode-blog/pull/1069) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [Hotfix v2.2.7](https://github.com/ansidev/leetcode-blog/pull/1068) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 day ago)
+- [Merge branch hotfix/3.1.1 into develop](https://github.com/ansidev/astro-basic-template/pull/906) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [Hotfix v3.1.1](https://github.com/ansidev/astro-basic-template/pull/905) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [Hotfix vrenovate-config](https://github.com/ansidev/astro-basic-template/pull/904) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
