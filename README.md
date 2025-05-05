@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (3 days ago)
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (4 days ago)
-- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (2 weeks ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (4 days ago)
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (5 days ago)
+- [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 weeks ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 months ago)
 
 #### 🌱 My latest projects
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 3 days ago) - Solutions for LeetCode problems - Written by ansidev
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 4 days ago) - An opinionated Astro starter template
+- [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 4 days ago) - Solutions for LeetCode problems - Written by ansidev
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 5 days ago) - An opinionated Astro starter template
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 4 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for manual deploying static site projects to Netlify
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 2 years ago) - Swetrix Tracking integration for Vue v3
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch hotfix/3.0.1 into develop](https://github.com/ansidev/leetcode-blog/pull/1078) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1077) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1076) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [Merge branch release/3.0.0 into develop](https://github.com/ansidev/leetcode-blog/pull/1075) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
-- [Release v3.0.0](https://github.com/ansidev/leetcode-blog/pull/1074) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (3 days ago)
+- [Merge branch hotfix/3.0.1 into develop](https://github.com/ansidev/leetcode-blog/pull/1078) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1077) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1076) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [Merge branch release/3.0.0 into develop](https://github.com/ansidev/leetcode-blog/pull/1075) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
+- [Release v3.0.0](https://github.com/ansidev/leetcode-blog/pull/1074) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
