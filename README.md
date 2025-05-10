@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 day ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 week ago)
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) - Solutions for LeetCode problems - Written by ansidev (1 week ago)
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) - An opinionated Astro starter template (1 week ago)
 - [ansidev/template-vite-vue-tailwind](https://github.com/ansidev/template-vite-vue-tailwind) - Vite, Vue 3, TS, Tailwind (3 weeks ago)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 1 day ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 1 week ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 1 week ago) - An opinionated Astro starter template
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 4 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for manual deploying static site projects to Netlify
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 2 years ago) - Swetrix Tracking integration for Vue v3
 
 #### 🔨 Latest Pull Requests I published
 
-- [Patchfix: Renovate config](https://github.com/ansidev/counter-analytics-vue/pull/222) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [Feature: Changelog generator](https://github.com/ansidev/counter-analytics-vue/pull/221) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
-- [Patch-fix: GitHub actions](https://github.com/ansidev/awesome-nuxt/pull/324) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
-- [Merge branch hotfix/3.0.1 into develop](https://github.com/ansidev/leetcode-blog/pull/1078) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
-- [Hotfix v3.0.1](https://github.com/ansidev/leetcode-blog/pull/1077) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
+- [Merge branch hotfix/2.0.1 into develop](https://github.com/ansidev/counter-analytics-vue/pull/231) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [Hotfix v2.0.1](https://github.com/ansidev/counter-analytics-vue/pull/230) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [Hotfix v2.0.1](https://github.com/ansidev/counter-analytics-vue/pull/229) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [Merge branch release/2.0.0 into develop](https://github.com/ansidev/counter-analytics-vue/pull/228) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
+- [Patchfix: Remove NPM package standard-version](https://github.com/ansidev/counter-analytics-vue/pull/225) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
