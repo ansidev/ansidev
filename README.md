@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (5 days ago)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (2 weeks ago)
 - [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (1 month ago)
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) - Counter Analytics integration for Vue v3 (1 month ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: circular dependency issue in nodeadm-run.service](https://github.com/awslabs/amazon-eks-ami/pull/2280) on [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) (1 week ago)
+- [fix: circular dependency issue in nodeadm-run.service](https://github.com/awslabs/amazon-eks-ami/pull/2280) on [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) (2 weeks ago)
 - [Merge branch hotfix/2.0.1 into develop](https://github.com/ansidev/counter-analytics-vue/pull/231) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 month ago)
 - [Hotfix v2.0.1](https://github.com/ansidev/counter-analytics-vue/pull/230) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 month ago)
 - [Hotfix v2.0.1](https://github.com/ansidev/counter-analytics-vue/pull/229) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 month ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
