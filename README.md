@@ -31,13 +31,13 @@
 
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 3 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 3 months ago) - Solutions for LeetCode problems - Written by ansidev
-- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 3 months ago) - An opinionated Astro starter template
+- [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 4 months ago) - An opinionated Astro starter template
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 8 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 1 year ago) - GitHub Actions for manual deploying static site projects to Netlify
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor unit test cases for ConstructStartWorkflowRequest to reduce code duplication](https://github.com/cadence-workflow/cadence/pull/7206) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (4 days ago)
+- [refactor unit test cases for ConstructStartWorkflowRequest to reduce code duplication](https://github.com/cadence-workflow/cadence/pull/7206) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (5 days ago)
 - [fix: circular dependency issue in nodeadm-run.service](https://github.com/awslabs/amazon-eks-ami/pull/2280) on [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) (2 months ago)
 - [Merge branch hotfix/2.0.1 into develop](https://github.com/ansidev/counter-analytics-vue/pull/231) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 months ago)
 - [Hotfix v2.0.1](https://github.com/ansidev/counter-analytics-vue/pull/230) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (3 months ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
