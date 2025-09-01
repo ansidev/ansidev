@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (3 days ago)
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (4 days ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 month ago)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (3 months ago)
 - [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (3 months ago)
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: update Golang Hello World tutorial](https://github.com/cadence-workflow/Cadence-Docs/pull/271) on [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) (1 day ago)
-- [Regenerate logger_mock using mockgen](https://github.com/cadence-workflow/cadence/pull/7223) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
-- [fix(deps): upgrade sarama to v1.46.0](https://github.com/cadence-workflow/cadence/pull/7222) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (2 days ago)
-- [refactor unit test cases for ConstructStartWorkflowRequest to reduce code duplication](https://github.com/cadence-workflow/cadence/pull/7206) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 week ago)
-- [fix: circular dependency issue in nodeadm-run.service](https://github.com/awslabs/amazon-eks-ami/pull/2280) on [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) (2 months ago)
+- [Refactor data manager interface](https://github.com/cadence-workflow/cadence/pull/7229) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
+- [Regenerate common/log/logger_mock.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7228) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
+- [fix: update docker image docker.io/bitnamilegacy/kafka:3.7 to docker.io/bitnami/kafka:3.7](https://github.com/cadence-workflow/cadence/pull/7227) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
+- [Regenerate client_mock in service/worker/parentclosepolicy using mockgen](https://github.com/cadence-workflow/cadence/pull/7226) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
+- [Regenerate mocks in service/worker/archiver using mockgen](https://github.com/cadence-workflow/cadence/pull/7225) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
