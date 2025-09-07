@@ -13,19 +13,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (1 day ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 days ago)
-- [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) - This repository updates the content of cadenceworkflow.io, the official website of the Cadence project. (2 days ago)
+- [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template (1 day ago)
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (2 days ago)
+- [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) - This repository updates the content of cadenceworkflow.io, the official website of the Cadence project. (3 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
 - [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (3 months ago)
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (3 months ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template
 - [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects
 - [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/vitepress-starter-template](https://github.com/ansidev/vitepress-starter-template) - VitePress Starter Template
 - [ansidev/english-notebook](https://github.com/ansidev/english-notebook) - ansidev's English notebook
-- [ansidev/k3d-demo](https://github.com/ansidev/k3d-demo)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor data manager interface](https://github.com/cadence-workflow/cadence/pull/7229) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (6 days ago)
-- [Regenerate common/log/logger_mock.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7228) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (6 days ago)
-- [fix: update docker image docker.io/bitnamilegacy/kafka:3.7 to docker.io/bitnami/kafka:3.7](https://github.com/cadence-workflow/cadence/pull/7227) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (6 days ago)
-- [Regenerate client_mock in service/worker/parentclosepolicy using mockgen](https://github.com/cadence-workflow/cadence/pull/7226) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (6 days ago)
-- [Regenerate mocks in service/worker/archiver using mockgen](https://github.com/cadence-workflow/cadence/pull/7225) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (6 days ago)
+- [fix(github-actions): fix error on PR branch deletion](https://github.com/ansidev/vitepress-theme-ansidev/pull/239) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(github-actions): fix deploy workflow](https://github.com/ansidev/vitepress-theme-ansidev/pull/238) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(github-actions): correct syntax](https://github.com/ansidev/vitepress-theme-ansidev/pull/237) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(github-actions): skip PR branch deletion if the PR branch does not exist](https://github.com/ansidev/vitepress-theme-ansidev/pull/236) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Feature: PostCSS](https://github.com/ansidev/vitepress-theme-ansidev/pull/229) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
