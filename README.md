@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template (1 day ago)
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (2 days ago)
-- [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) - This repository updates the content of cadenceworkflow.io, the official website of the Cadence project. (3 days ago)
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 days ago)
-- [ansidev/homebrew-casks](https://github.com/ansidev/homebrew-casks) - ansidev's Homebrew Casks (3 months ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (today)
+- [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template (2 days ago)
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (3 days ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 days ago)
+- [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) - This repository updates the content of cadenceworkflow.io, the official website of the Cadence project. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.1](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.1), 1 day ago) - A VitePress theme for https://ansidev.xyz/
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.3.4](https://github.com/cadence-workflow/cadence/releases/tag/v1.3.4), 2 weeks ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 4 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 4 months ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 4 months ago) - An opinionated Astro starter template
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 8 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(github-actions): fix error on PR branch deletion](https://github.com/ansidev/vitepress-theme-ansidev/pull/239) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [fix(github-actions): fix deploy workflow](https://github.com/ansidev/vitepress-theme-ansidev/pull/238) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [fix(github-actions): correct syntax](https://github.com/ansidev/vitepress-theme-ansidev/pull/237) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [fix(github-actions): skip PR branch deletion if the PR branch does not exist](https://github.com/ansidev/vitepress-theme-ansidev/pull/236) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [Feature: PostCSS](https://github.com/ansidev/vitepress-theme-ansidev/pull/229) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Merge branch release/1.0.1 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/248) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Release v1.0.1](https://github.com/ansidev/vitepress-theme-ansidev/pull/247) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Release v1.0.0](https://github.com/ansidev/vitepress-theme-ansidev/pull/246) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [feat(github-actions): add GitHub Actions workflows](https://github.com/ansidev/vitepress-theme-ansidev/pull/244) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(github-actions): do not return exit code 1](https://github.com/ansidev/vitepress-theme-ansidev/pull/243) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
