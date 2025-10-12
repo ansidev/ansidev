@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Issue 6759: Regenerate common/blobstore/interface.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7267) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (2 weeks ago)
+- [Issue 6759: Regenerate common/blobstore/interface.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7267) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (3 weeks ago)
 - [Issue 6759: Regenerate common/archiver/provider/provider_mock.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7266) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (3 weeks ago)
 - [Merge branch release/1.0.1 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/248) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 month ago)
 - [Release v1.0.1](https://github.com/ansidev/vitepress-theme-ansidev/pull/247) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 month ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
