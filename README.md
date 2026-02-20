@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 months ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (1 day ago)
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (1 day ago)
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. (4 months ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (5 months ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (4 months ago)
 - [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template (5 months ago)
-- [cadence-workflow/Cadence-Docs](https://github.com/cadence-workflow/Cadence-Docs) - This repository updates the content of cadenceworkflow.io, the official website of the Cadence project. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.1](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.1), 5 months ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.10](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.10), 1 day ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 9 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 9 months ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 9 months ago) - An opinionated Astro starter template
-- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) ([v2.0.1](https://github.com/ansidev/swetrix-vue/releases/tag/v2.0.1), 3 years ago) - Swetrix Tracking integration for Vue v3
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) ([v2.0.0](https://github.com/ghacts/manual-deploy-to-netlify/releases/tag/v2.0.0), 2 years ago) - GitHub Actions for manual deploying static site projects to Netlify
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: package theme for npm distribution and demo installation flow](https://github.com/ansidev/vitepress-theme-ansidev/pull/363) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 days ago)
-- [Issue 6759: Regenerate common/blobstore/interface.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7267) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (5 months ago)
-- [Issue 6759: Regenerate common/archiver/provider/provider_mock.go using mockgen](https://github.com/cadence-workflow/cadence/pull/7266) on [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) (5 months ago)
-- [Merge branch release/1.0.1 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/248) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (5 months ago)
-- [Release v1.0.1](https://github.com/ansidev/vitepress-theme-ansidev/pull/247) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (5 months ago)
+- [Merge branch hotfix/1.0.10 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/382) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Hotfix v1.0.10](https://github.com/ansidev/vitepress-theme-ansidev/pull/381) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Merge branch hotfix/1.0.9 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/380) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Hotfix v1.0.9](https://github.com/ansidev/vitepress-theme-ansidev/pull/379) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Merge branch hotfix/1.0.8 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/377) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
