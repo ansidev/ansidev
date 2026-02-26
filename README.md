@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (2 days ago)
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (2 days ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (2 days ago)
-- [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (2 days ago)
-- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (6 days ago)
+- [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (1 day ago)
+- [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (3 days ago)
+- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (3 days ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 2 days ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 3 days ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 9 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 10 months ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 10 months ago) - An opinionated Astro starter template
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add GitHub Action to deploy site to Netlify](https://github.com/ansidev/blog/pull/1) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [Merge branch release/1.0.12 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/394) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 days ago)
-- [Release v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/pull/393) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (3 days ago)
-- [Fix theme issues](https://github.com/ansidev/vitepress-theme-ansidev/pull/392) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (3 days ago)
-- [Merge branch release/1.0.11 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/391) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (3 days ago)
+- [feat: add GitHub Action to deploy site to Netlify](https://github.com/ansidev/blog/pull/1) on [ansidev/blog](https://github.com/ansidev/blog) (3 days ago)
+- [Merge branch release/1.0.12 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/394) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (3 days ago)
+- [Release v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/pull/393) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (4 days ago)
+- [Fix theme issues](https://github.com/ansidev/vitepress-theme-ansidev/pull/392) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (4 days ago)
+- [Merge branch release/1.0.11 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/391) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (4 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
