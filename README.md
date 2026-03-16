@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (today)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 week ago)
+- [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (1 day ago)
+- [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (1 day ago)
+- [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (1 day ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (2 weeks ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (2 weeks ago)
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (2 weeks ago)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1-prerelease07](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1-prerelease07), 4 days ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 2 weeks ago) - A VitePress theme for https://ansidev.xyz/
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1-prerelease07](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1-prerelease07), 5 days ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 3 weeks ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 10 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 10 months ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 10 months ago) - An opinionated Astro starter template
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update GitHub workflows](https://github.com/ansidev/awesome-nuxt/pull/359) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 week ago)
-- [Fix TailwindCSS syntax](https://github.com/ansidev/leetcode-blog/pull/1385) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (2 weeks ago)
-- [feat: add GitHub Action to deploy site to Netlify](https://github.com/ansidev/blog/pull/1) on [ansidev/blog](https://github.com/ansidev/blog) (2 weeks ago)
-- [Merge branch release/1.0.12 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/394) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 weeks ago)
-- [Release v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/pull/393) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (3 weeks ago)
+- [fix: remove Node and PNPM version from GitHub Actions workflows](https://github.com/ansidev/vitepress-theme-ansidev/pull/424) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix: use latest Node and pnpm versions](https://github.com/ansidev/astro-basic-template/pull/1211) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 day ago)
+- [fix: only delete PR branch if the PR is merged successfully](https://github.com/ansidev/vitepress-theme-ansidev/pull/423) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [chore(deps): update vuepress monorepo](https://github.com/ansidev/awesome-nuxt/pull/374) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
+- [chore(deps): update dependency sass-embedded to v1.98.0](https://github.com/ansidev/awesome-nuxt/pull/373) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
