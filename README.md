@@ -16,7 +16,7 @@
 - [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (1 week ago)
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (1 week ago)
 - [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (1 week ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (2 weeks ago)
+- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (3 weeks ago)
 - [ansidev/swetrix-vue](https://github.com/ansidev/swetrix-vue) - Swetrix Tracking integration for Vue v3 (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,30 +30,22 @@
 #### 🔭 Latest releases I've contributed to
 
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1-prerelease07](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1-prerelease07), 1 week ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 3 weeks ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 4 weeks ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 10 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 10 months ago) - Solutions for LeetCode problems - Written by ansidev
 - [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) ([v3.1.1](https://github.com/ansidev/astro-basic-template/releases/tag/v3.1.1), 10 months ago) - An opinionated Astro starter template
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: migrate deprecated Astro v5 Content Layer APIs](https://github.com/ansidev/leetcode-blog/pull/1412) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (6 days ago)
-- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/counter-analytics-vue/pull/333) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (6 days ago)
-- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/leetcode-blog/pull/1411) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (6 days ago)
-- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/astro-basic-template/pull/1215) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (6 days ago)
+- [fix: migrate deprecated Astro v5 Content Layer APIs](https://github.com/ansidev/leetcode-blog/pull/1412) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
+- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/counter-analytics-vue/pull/333) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (1 week ago)
+- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/leetcode-blog/pull/1411) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (1 week ago)
+- [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/astro-basic-template/pull/1215) on [ansidev/astro-basic-template](https://github.com/ansidev/astro-basic-template) (1 week ago)
 - [fix: remove Node and PNPM version from GitHub Actions workflows](https://github.com/ansidev/vitepress-theme-ansidev/pull/424) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 week ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
