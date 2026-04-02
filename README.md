@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1-prerelease07](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1-prerelease07), 3 weeks ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1-prerelease11](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1-prerelease11), 1 day ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 1 month ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) ([v2.0.1](https://github.com/ansidev/counter-analytics-vue/releases/tag/v2.0.1), 10 months ago) - Counter Analytics integration for Vue v3
 - [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) ([v3.0.1](https://github.com/ansidev/leetcode-blog/releases/tag/v3.0.1), 11 months ago) - Solutions for LeetCode problems - Written by ansidev
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feature: Migrate to rolldown from tsup](https://github.com/ansidev/counter-analytics-vue/pull/340) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (4 days ago)
+- [Feature: Migrate to rolldown from tsup](https://github.com/ansidev/counter-analytics-vue/pull/340) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (5 days ago)
 - [fix: migrate deprecated Astro v5 Content Layer APIs](https://github.com/ansidev/leetcode-blog/pull/1412) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (2 weeks ago)
 - [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/counter-analytics-vue/pull/333) on [ansidev/counter-analytics-vue](https://github.com/ansidev/counter-analytics-vue) (2 weeks ago)
 - [fix: remove pnpm version to avoid failed CI/CD pipelines](https://github.com/ansidev/leetcode-blog/pull/1411) on [ansidev/leetcode-blog](https://github.com/ansidev/leetcode-blog) (2 weeks ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
