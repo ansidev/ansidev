@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feature: custom command description](https://github.com/ansidev/herdr/pull/1) on [ansidev/herdr](https://github.com/ansidev/herdr) (1 day ago)
-- [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/363) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (2 days ago)
-- [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/361) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (2 days ago)
+- [Feature: custom command description](https://github.com/ansidev/herdr/pull/1) on [ansidev/herdr](https://github.com/ansidev/herdr) (2 days ago)
+- [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/363) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (3 days ago)
+- [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/361) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (3 days ago)
 - [build(deps): upgrade pnpm to v11](https://github.com/ansidev/awesome-nuxt/pull/390) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 week ago)
 - [deps(pnpm): upgrade pnpm to v11](https://github.com/ansidev/vitepress-theme-ansidev/pull/491) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 week ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
