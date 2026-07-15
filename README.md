@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.46](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.46), 4 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.46](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.46), 5 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1), 2 weeks ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 4 months ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 2 years ago) - 🎉 A curated list of awesome things related to Nuxt.js
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: support for user/repo and ssh](https://github.com/ansidev/tpm/pull/1) on [ansidev/tpm](https://github.com/ansidev/tpm) (2 days ago)
+- [feat: support for user/repo and ssh](https://github.com/ansidev/tpm/pull/1) on [ansidev/tpm](https://github.com/ansidev/tpm) (3 days ago)
 - [Feature: custom command description](https://github.com/ansidev/herdr/pull/1) on [ansidev/herdr](https://github.com/ansidev/herdr) (1 month ago)
 - [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/363) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago)
 - [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/361) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
