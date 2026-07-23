@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage. (3 months ago)
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage. (4 months ago)
 - [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool (4 months ago)
 - [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (4 months ago)
 - [ghacts/manual-deploy-to-netlify](https://github.com/ghacts/manual-deploy-to-netlify) - GitHub Actions for manual deploying static site projects to Netlify (4 months ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.47](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.47), 1 day ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.48](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.48), 1 day ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1), 3 weeks ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 4 months ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 5 months ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.2](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.2), 2 years ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [ghacts/static-site](https://github.com/ghacts/static-site) ([v2.0.0](https://github.com/ghacts/static-site/releases/tag/v2.0.0), 2 years ago) - GitHub Actions for building and testing static site projects
 
@@ -41,19 +41,11 @@
 - [Feature: custom command description](https://github.com/ansidev/herdr/pull/1) on [ansidev/herdr](https://github.com/ansidev/herdr) (1 month ago)
 - [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/363) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago)
 - [Feature: custom command description](https://github.com/ogulcancelik/herdr/pull/361) on [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago)
-- [build(deps): upgrade pnpm to v11](https://github.com/ansidev/awesome-nuxt/pull/390) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (1 month ago)
+- [build(deps): upgrade pnpm to v11](https://github.com/ansidev/awesome-nuxt/pull/390) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (2 months ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
