@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network. (5 days ago)
+- [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network. (6 days ago)
 - [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (1 week ago)
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (1 week ago)
 - [ghacts/static-site](https://github.com/ghacts/static-site) - GitHub Actions for building and testing static site projects (1 week ago)
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([untagged-e2806354b0e02591ad1b](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/untagged-e2806354b0e02591ad1b), 2 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
-- [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 6 days ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([untagged-e2806354b0e02591ad1b](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/untagged-e2806354b0e02591ad1b), 3 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
+- [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 1 week ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 1 week ago) - GitHub Actions for building and testing Go projects
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.4](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.4), 1 week ago) - 🎉 A curated list of awesome things related to Nuxt.js
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) ([v1.4.1](https://github.com/cadence-workflow/cadence/releases/tag/v1.4.1), 1 month ago) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch release/1.0.3 into develop](https://github.com/ansidev/anti-locker/pull/8) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (6 days ago)
-- [Release v1.0.3](https://github.com/ansidev/anti-locker/pull/7) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (6 days ago)
+- [Merge branch release/1.0.3 into develop](https://github.com/ansidev/anti-locker/pull/8) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 week ago)
+- [Release v1.0.3](https://github.com/ansidev/anti-locker/pull/7) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 week ago)
 - [Merge branch release/1.0.2 into develop](https://github.com/ansidev/anti-locker/pull/6) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 week ago)
 - [Release v1.0.2](https://github.com/ansidev/anti-locker/pull/5) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 week ago)
 - [Merge branch release/1.0.1 into develop](https://github.com/ansidev/anti-locker/pull/4) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 week ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
