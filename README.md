@@ -13,19 +13,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (1 day ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (2 days ago)
+- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev (today)
+- [ansidev/prompt-master](https://github.com/ansidev/prompt-master) - This is the cloned agent skill of `nidhinjs/prompt-master` to make it compatible with `gh skill install` command (1 day ago)
+- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (2 days ago)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (3 days ago)
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network. (3 weeks ago)
-- [ghacts/go](https://github.com/ghacts/go) - GitHub Actions for building and testing Go projects (3 weeks ago)
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) - 🎉 A curated list of awesome things related to Nuxt.js (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev
+- [ansidev/prompt-master](https://github.com/ansidev/prompt-master) - This is the cloned agent skill of `nidhinjs/prompt-master` to make it compatible with `gh skill install` command
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ansidev/gh-env-sync](https://github.com/ansidev/gh-env-sync) - GitHub Actions Secrets & Variables Synchronization Tool
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3)
-- [ansidev/template-vitepress-tailwind-starter](https://github.com/ansidev/template-vitepress-tailwind-starter) - An opinionated VitePress TailwindCSS starter template
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Translate Chinese to English and correct label text](https://github.com/Eddie0521/pi-permission-suite/pull/1) on [Eddie0521/pi-permission-suite](https://github.com/Eddie0521/pi-permission-suite) (4 days ago)
+- [Translate Chinese to English and correct label text](https://github.com/Eddie0521/pi-permission-suite/pull/1) on [Eddie0521/pi-permission-suite](https://github.com/Eddie0521/pi-permission-suite) (5 days ago)
 - [Merge branch release/1.0.3 into develop](https://github.com/ansidev/anti-locker/pull/8) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (3 weeks ago)
 - [Release v1.0.3](https://github.com/ansidev/anti-locker/pull/7) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (3 weeks ago)
 - [Merge branch release/1.0.2 into develop](https://github.com/ansidev/anti-locker/pull/6) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (3 weeks ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
