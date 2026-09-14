@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev (6 days ago)
+- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev (1 week ago)
 - [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (1 week ago)
 - [ansidev/prompt-master](https://github.com/ansidev/prompt-master) - This is the cloned agent skill of `nidhinjs/prompt-master` to make it compatible with `gh skill install` command (1 week ago)
 - [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (1 week ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 4 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 5 days ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 1 month ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 1 month ago) - GitHub Actions for building and testing Go projects
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.4](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.4), 1 month ago) - 🎉 A curated list of awesome things related to Nuxt.js
@@ -37,7 +37,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Translate Chinese to English and correct label text](https://github.com/Eddie0521/pi-permission-suite/pull/1) on [Eddie0521/pi-permission-suite](https://github.com/Eddie0521/pi-permission-suite) (1 week ago)
+- [Translate Chinese to English and correct label text](https://github.com/Eddie0521/pi-permission-suite/pull/1) on [Eddie0521/pi-permission-suite](https://github.com/Eddie0521/pi-permission-suite) (2 weeks ago)
 - [Merge branch release/1.0.3 into develop](https://github.com/ansidev/anti-locker/pull/8) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 month ago)
 - [Release v1.0.3](https://github.com/ansidev/anti-locker/pull/7) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 month ago)
 - [Merge branch release/1.0.2 into develop](https://github.com/ansidev/anti-locker/pull/6) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 month ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
