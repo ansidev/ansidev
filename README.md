@@ -33,11 +33,11 @@
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 2 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 2 months ago) - GitHub Actions for building and testing Go projects
 - [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.4](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.4), 2 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 7 months ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.0.12](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.0.12), 8 months ago) - A VitePress theme for https://ansidev.xyz/
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feature: Integrate Decision API](https://github.com/ansidev/pi-permission-suite/pull/1) on [ansidev/pi-permission-suite](https://github.com/ansidev/pi-permission-suite) (4 days ago)
+- [Feature: Integrate Decision API](https://github.com/ansidev/pi-permission-suite/pull/1) on [ansidev/pi-permission-suite](https://github.com/ansidev/pi-permission-suite) (5 days ago)
 - [Translate Chinese to English and correct label text](https://github.com/Eddie0521/pi-permission-suite/pull/1) on [Eddie0521/pi-permission-suite](https://github.com/Eddie0521/pi-permission-suite) (1 month ago)
 - [Merge branch release/1.0.3 into develop](https://github.com/ansidev/anti-locker/pull/8) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (2 months ago)
 - [Release v1.0.3](https://github.com/ansidev/anti-locker/pull/7) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (2 months ago)
@@ -45,15 +45,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
