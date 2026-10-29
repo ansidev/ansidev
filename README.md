@@ -13,15 +13,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) - Default theme for resume-cli (today)
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) (1 day ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (3 days ago)
-- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev (2 weeks ago)
-- [ansidev/project-configs](https://github.com/ansidev/project-configs) - Collection of configurations that are used in my projects (1 month ago)
+- [ansidev/go-circuit-breaker-demo](https://github.com/ansidev/go-circuit-breaker-demo) (today)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (today)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (today)
+- [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) - Default theme for resume-cli (1 day ago)
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (2 days ago)
 
 #### 🌱 My latest projects
 
-- [ansidev/test](https://github.com/ansidev/test)
+- [ansidev/go-circuit-breaker-demo](https://github.com/ansidev/go-circuit-breaker-demo)
 - [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev
 - [ansidev/mirrored-skills](https://github.com/ansidev/mirrored-skills) - This is the mirrored skill of third-party agent skills to make them compatible with `gh skill install` command
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.2.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.2.0), 2 days ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.1.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.1.0), 1 day ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.2.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.2.0), 3 days ago) - Resume CLI
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 1 month ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 2 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 2 months ago) - GitHub Actions for building and testing Go projects
-- [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) ([v2.1.4](https://github.com/ansidev/awesome-nuxt/releases/tag/v2.1.4), 2 months ago) - 🎉 A curated list of awesome things related to Nuxt.js
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: use production Pages URL and deploy to production branch (RTD-6)](https://github.com/ansidev/resume-theme-default/pull/4) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (1 day ago)
-- [ci: use npm to install Wrangler in deploy workflow (RTD-6)](https://github.com/ansidev/resume-theme-default/pull/3) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (1 day ago)
-- [ci: build and deploy resume demo to Cloudflare Pages (RTD-6)](https://github.com/ansidev/resume-theme-default/pull/2) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (1 day ago)
-- [feat: add Homebrew formula for resume-cli (RCC-1)](https://github.com/ansidev/resume-cli-ce/pull/1) on [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) (1 day ago)
-- [Feature: Integrate Decision API](https://github.com/ansidev/pi-permission-suite/pull/1) on [ansidev/pi-permission-suite](https://github.com/ansidev/pi-permission-suite) (1 week ago)
+- [Merge branch release/1.1.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/600) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Release v1.1.0](https://github.com/ansidev/vitepress-theme-ansidev/pull/598) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [feat(theme): port the blog's visual customizations into the base theme](https://github.com/ansidev/vitepress-theme-ansidev/pull/597) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [feat(seo): SEO metadata and per-page html lang (BLOG-1)](https://github.com/ansidev/blog/pull/5) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [docs(projects): update pi-permission-suite page for fork](https://github.com/ansidev/blog/pull/4) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos.html)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes.html)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit.html)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [tar-xz](https://ansidev.xyz/projects/tar-xz.html)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet.html)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
