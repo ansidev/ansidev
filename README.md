@@ -45,7 +45,15 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
+- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
+- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
+- [anti-locker](https://ansidev.xyz/projects/anti-locker)
+- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
+- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
+- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
+<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
