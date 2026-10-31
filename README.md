@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (today)
-- [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) - Default theme for resume-cli (1 day ago)
-- [ansidev/go-circuit-breaker-demo](https://github.com/ansidev/go-circuit-breaker-demo) (1 day ago)
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (1 day ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (1 day ago)
+- [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) - Default theme for resume-cli (2 days ago)
+- [ansidev/go-circuit-breaker-demo](https://github.com/ansidev/go-circuit-breaker-demo) (2 days ago)
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (2 days ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 1 day ago) - Resume CLI
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.1.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.1.0), 2 days ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 2 days ago) - Resume CLI
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.1.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.1.0), 3 days ago) - A VitePress theme for https://ansidev.xyz/
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 1 month ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 2 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 2 months ago) - GitHub Actions for building and testing Go projects
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(products): Resume CLI logo and favicon (BLOG-4)](https://github.com/ansidev/blog/pull/7) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [feat(BLOG-3): add Resume CLI landing page at /products/resume-cli](https://github.com/ansidev/blog/pull/6) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [ci: auto-update Homebrew formula on release (RCC-3)](https://github.com/ansidev/resume-cli-ce/pull/2) on [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) (1 day ago)
-- [chore: cache cli and improve repo usage docs (RTD-7)](https://github.com/ansidev/resume-theme-default/pull/6) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (1 day ago)
-- [docs: update README with public links and usage guide (RTD-6)](https://github.com/ansidev/resume-theme-default/pull/5) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (1 day ago)
+- [feat(products): Resume CLI logo and favicon (BLOG-4)](https://github.com/ansidev/blog/pull/7) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [feat(BLOG-3): add Resume CLI landing page at /products/resume-cli](https://github.com/ansidev/blog/pull/6) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [ci: auto-update Homebrew formula on release (RCC-3)](https://github.com/ansidev/resume-cli-ce/pull/2) on [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) (2 days ago)
+- [chore: cache cli and improve repo usage docs (RTD-7)](https://github.com/ansidev/resume-theme-default/pull/6) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (2 days ago)
+- [docs: update README with public links and usage guide (RTD-6)](https://github.com/ansidev/resume-theme-default/pull/5) on [ansidev/resume-theme-default](https://github.com/ansidev/resume-theme-default) (2 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
-- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
-- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
-- [anti-locker](https://ansidev.xyz/projects/anti-locker)
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
