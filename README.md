@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (1 day ago)
-- [ansidev/resume-theme-simple](https://github.com/ansidev/resume-theme-simple) - Simple theme for https://github.com/ansidev/resume-cli-ce (1 day ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (1 day ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (1 day ago)
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (3 days ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (today)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (today)
+- [ansidev/resume-theme-simple](https://github.com/ansidev/resume-theme-simple) - Simple theme for https://github.com/ansidev/resume-cli-ce (2 days ago)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (2 days ago)
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 3 days ago) - Resume CLI
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.1.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.1.0), 4 days ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 1 day ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 4 days ago) - Resume CLI
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 1 month ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 2 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 2 months ago) - GitHub Actions for building and testing Go projects
 
 #### 🔨 Latest Pull Requests I published
 
-- [VTA-14: add <main> landmark to custom page layout + Vite+ toolchain migration](https://github.com/ansidev/vitepress-theme-ansidev/pull/614) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [Migrate Biome to Oxlint + Oxfmt (VTA-8)](https://github.com/ansidev/vitepress-theme-ansidev/pull/613) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [perf(theme): remove render-blocking font inlining from theme CSS (VTA-12)](https://github.com/ansidev/vitepress-theme-ansidev/pull/612) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [VTA-13: use compositor-friendly transitions](https://github.com/ansidev/vitepress-theme-ansidev/pull/608) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [perf: remove non-composited animations and defer gtag loading](https://github.com/ansidev/blog/pull/9) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [Merge branch release/1.4.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/628) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [Release v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/pull/627) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [perf(VTA-15): defer Google Analytics init to idle/load](https://github.com/ansidev/vitepress-theme-ansidev/pull/626) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [BLOG-12: upgrade vitepress-theme-ansidev to 1.4.0 and strip inlined Inter font data-URIs for mobile perf](https://github.com/ansidev/blog/pull/11) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
+- [Merge branch release/1.3.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/625) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
-- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
-- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
-- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
-- [anti-locker](https://ansidev.xyz/projects/anti-locker)
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
