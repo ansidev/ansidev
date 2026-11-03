@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (today)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (today)
-- [ansidev/resume-theme-simple](https://github.com/ansidev/resume-theme-simple) - Simple theme for https://github.com/ansidev/resume-cli-ce (2 days ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (2 days ago)
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (4 days ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (1 day ago)
+- [ansidev/resume-theme-simple](https://github.com/ansidev/resume-theme-simple) - Simple theme for https://github.com/ansidev/resume-cli-ce (3 days ago)
+- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (3 days ago)
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) - Resume CLI (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,31 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 1 day ago) - A VitePress theme for https://ansidev.xyz/
-- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 4 days ago) - Resume CLI
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 2 days ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 5 days ago) - Resume CLI
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 1 month ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 2 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 - [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 2 months ago) - GitHub Actions for building and testing Go projects
 
 #### 🔨 Latest Pull Requests I published
 
-- [Merge branch release/1.4.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/628) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [Release v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/pull/627) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [perf(VTA-15): defer Google Analytics init to idle/load](https://github.com/ansidev/vitepress-theme-ansidev/pull/626) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
-- [BLOG-12: upgrade vitepress-theme-ansidev to 1.4.0 and strip inlined Inter font data-URIs for mobile perf](https://github.com/ansidev/blog/pull/11) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [Merge branch release/1.3.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/625) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(seo): use space-separated Content-Signal values in robots.txt (BLOG-13)](https://github.com/ansidev/blog/pull/12) on [ansidev/blog](https://github.com/ansidev/blog) (today)
+- [perf(VTA-16): defer GA load to interaction; drop @rrweb/record from theme bundle](https://github.com/ansidev/vitepress-theme-ansidev/pull/629) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (1 day ago)
+- [fix(workflow): fix invalid YAML in update_homebrew_formula workflow](https://github.com/ansidev/anti-locker/pull/10) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 day ago)
+- [feat: add macOS release artifacts workflow (ALK-1)](https://github.com/ansidev/anti-locker/pull/9) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (1 day ago)
+- [Merge branch release/1.4.0 into develop](https://github.com/ansidev/vitepress-theme-ansidev/pull/628) on [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) (2 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Aligning Renovate with pnpm&#39;s minimumReleaseAge supply-chain policy](https://ansidev.xyz/posts/2026-11-01-align-renovate-with-pnpm-minimum-release-age)
-- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
-- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
-- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
-- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
-- [anti-locker](https://ansidev.xyz/projects/anti-locker)
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
