@@ -45,7 +45,15 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Aligning Renovate with pnpm&#39;s minimumReleaseAge supply-chain policy](https://ansidev.xyz/posts/2026-11-01-align-renovate-with-pnpm-minimum-release-age)
+- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
+- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
+- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
+- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
+- [anti-locker](https://ansidev.xyz/projects/anti-locker)
+- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
+<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
