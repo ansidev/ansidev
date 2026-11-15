@@ -14,46 +14,38 @@
 #### 👷 Check out what I'm currently working on
 
 - [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (today)
+- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (today)
+- [ansidev/ask-my-docs](https://github.com/ansidev/ask-my-docs) (1 day ago)
 - [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (1 day ago)
-- [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev (4 days ago)
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) - A VitePress theme for https://ansidev.xyz/ (1 week ago)
-- [ansidev/dotbs](https://github.com/ansidev/dotbs) - ansidev's bootstrap script (2 weeks ago)
+- [ansidev/kiro](https://github.com/ansidev/kiro) (1 day ago)
 
 #### 🌱 My latest projects
 
+- [ansidev/kiro](https://github.com/ansidev/kiro)
+- [ansidev/ask-my-docs](https://github.com/ansidev/ask-my-docs)
 - [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli)
 - [ansidev/go-circuit-breaker-demo](https://github.com/ansidev/go-circuit-breaker-demo)
 - [ansidev/skills](https://github.com/ansidev/skills) - Agent skills used by ansidev
-- [ansidev/mirrored-skills](https://github.com/ansidev/mirrored-skills) - This is the mirrored skill of third-party agent skills to make them compatible with `gh skill install` command
-- [ansidev/anti-locker](https://github.com/ansidev/anti-locker) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 1 week ago) - A VitePress theme for https://ansidev.xyz/
+- [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) ([v1.0.0](https://github.com/ansidev/skill-manager-cli/releases/tag/v1.0.0), 1 day ago)
+- [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 2 weeks ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 2 weeks ago) - Resume CLI
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 2 months ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [ansidev/anti-locker](https://github.com/ansidev/anti-locker) ([v1.0.3](https://github.com/ansidev/anti-locker/releases/tag/v1.0.3), 3 months ago) - Prevent macOS from locking the screen when connected to a specific Wi-Fi network.
-- [ghacts/go](https://github.com/ghacts/go) ([v2.0.0](https://github.com/ghacts/go/releases/tag/v2.0.0), 3 months ago) - GitHub Actions for building and testing Go projects
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: automatically update Homebrew formula](https://github.com/ansidev/skill-manager-cli/pull/2) on [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (1 day ago)
-- [build: add cross-platform release binaries](https://github.com/ansidev/skill-manager-cli/pull/1) on [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (1 day ago)
-- [docs(BLOG-3): share lessons from stale production CSS](https://github.com/ansidev/blog/pull/16) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [BLOG-2: Bust Cloudflare cache for purged CSS](https://github.com/ansidev/blog/pull/15) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [fix(build): keep href-conditioned selectors through PurgeCSS (BLOG-1)](https://github.com/ansidev/blog/pull/14) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [Merge branch release/1.0.0 into develop](https://github.com/ansidev/skill-manager-cli/pull/5) on [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (1 day ago)
+- [Release v1.0.0](https://github.com/ansidev/skill-manager-cli/pull/4) on [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (1 day ago)
+- [Release v1.0.0](https://github.com/ansidev/skill-manager-cli/pull/3) on [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (1 day ago)
+- [Replace git-chglog with git-cliff; drop changie (TFS-1)](https://github.com/ansidev/taskfile/pull/1) on [ansidev/taskfile](https://github.com/ansidev/taskfile) (1 day ago)
+- [fix(blog): address SEO audit findings](https://github.com/ansidev/blog/pull/17) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [What I Learned Fixing Stale Production CSS](https://ansidev.xyz/posts/2026-11-13-what-i-learned-fixing-stale-production-css)
-- [Aligning Renovate with pnpm&#39;s minimumReleaseAge supply-chain policy](https://ansidev.xyz/posts/2026-11-01-align-renovate-with-pnpm-minimum-release-age)
-- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
-- [How to create a dynamic help command for Makefile?](https://ansidev.xyz/posts/2026-10-28-how-to-create-a-dynamic-help-command-for-makefile)
-- [How to publish releases of a private GitHub repository to a public repository?](https://ansidev.xyz/posts/2026-10-28-how-to-publish-releases-of-a-private-github-repo-to-a-public-repo)
-- [pi-permission-suite](https://ansidev.xyz/projects/pi-permission-suite)
-- [anti-locker](https://ansidev.xyz/projects/anti-locker)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
