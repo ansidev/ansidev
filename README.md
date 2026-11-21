@@ -13,23 +13,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ansidev/herdr-codebuddy-plugin](https://github.com/ansidev/herdr-codebuddy-plugin) (today)
-- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (1 day ago)
-- [ansidev/herdr-zcode-plugin](https://github.com/ansidev/herdr-zcode-plugin) - Herdr plugin that adds ZCode agent support — live pane state (working/blocked/idle) in the sidebar and session restore. (1 day ago)
-- [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (4 days ago)
-- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (5 days ago)
+- [ansidev/herdr-codebuddy-plugin](https://github.com/ansidev/herdr-codebuddy-plugin) - Herdr plugin that adds CodeBuddy agent support — live pane state (working/blocked/idle) in the sidebar and session restore. (1 day ago)
+- [ansidev/blog](https://github.com/ansidev/blog) - Personal blog of ansidev - https://ansidev.xyz (version 3) (2 days ago)
+- [ansidev/herdr-zcode-plugin](https://github.com/ansidev/herdr-zcode-plugin) - Herdr plugin that adds ZCode agent support — live pane state (working/blocked/idle) in the sidebar and session restore. (2 days ago)
+- [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) (5 days ago)
+- [ansidev/taskfile](https://github.com/ansidev/taskfile) - ansidev's frequently used Taskfiles (6 days ago)
 
 #### 🌱 My latest projects
 
 - [ansidev/herdr-zcode-plugin](https://github.com/ansidev/herdr-zcode-plugin) - Herdr plugin that adds ZCode agent support — live pane state (working/blocked/idle) in the sidebar and session restore.
-- [ansidev/herdr-codebuddy-plugin](https://github.com/ansidev/herdr-codebuddy-plugin)
+- [ansidev/herdr-codebuddy-plugin](https://github.com/ansidev/herdr-codebuddy-plugin) - Herdr plugin that adds CodeBuddy agent support — live pane state (working/blocked/idle) in the sidebar and session restore.
 - [ansidev/kiro](https://github.com/ansidev/kiro)
 - [ansidev/ask-my-docs](https://github.com/ansidev/ask-my-docs)
 - [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) ([v1.1.0](https://github.com/ansidev/skill-manager-cli/releases/tag/v1.1.0), 5 days ago)
+- [ansidev/skill-manager-cli](https://github.com/ansidev/skill-manager-cli) ([v1.1.0](https://github.com/ansidev/skill-manager-cli/releases/tag/v1.1.0), 6 days ago)
 - [ansidev/vitepress-theme-ansidev](https://github.com/ansidev/vitepress-theme-ansidev) ([v1.4.0](https://github.com/ansidev/vitepress-theme-ansidev/releases/tag/v1.4.0), 2 weeks ago) - A VitePress theme for https://ansidev.xyz/
 - [ansidev/resume-cli-ce](https://github.com/ansidev/resume-cli-ce) ([v0.3.0](https://github.com/ansidev/resume-cli-ce/releases/tag/v0.3.0), 3 weeks ago) - Resume CLI
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) ([v0.4.53](https://github.com/heyhuynhgiabuu/proxypal/releases/tag/v0.4.53), 2 months ago) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
@@ -37,23 +37,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(projects): add herdr-zcode-plugin and herdr-codebuddy-plugin project pages](https://github.com/ansidev/blog/pull/21) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [feat: Update skill-manager-cli logo and favicon](https://github.com/ansidev/blog/pull/20) on [ansidev/blog](https://github.com/ansidev/blog) (1 day ago)
-- [docs(posts): add SSH from non-admin Windows to macOS via cloudflared + PuTTY guide (BLOG-6)](https://github.com/ansidev/blog/pull/19) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
-- [feat(ASN-1): add approved PR preview deployments](https://github.com/ansidev/awesome-nuxt/pull/415) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (4 days ago)
-- [Update release workflow and migrate project specs](https://github.com/ansidev/anti-locker/pull/11) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (4 days ago)
+- [feat(projects): add herdr-zcode-plugin and herdr-codebuddy-plugin project pages](https://github.com/ansidev/blog/pull/21) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [feat: Update skill-manager-cli logo and favicon](https://github.com/ansidev/blog/pull/20) on [ansidev/blog](https://github.com/ansidev/blog) (2 days ago)
+- [docs(posts): add SSH from non-admin Windows to macOS via cloudflared + PuTTY guide (BLOG-6)](https://github.com/ansidev/blog/pull/19) on [ansidev/blog](https://github.com/ansidev/blog) (3 days ago)
+- [feat(ASN-1): add approved PR preview deployments](https://github.com/ansidev/awesome-nuxt/pull/415) on [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt) (5 days ago)
+- [Update release workflow and migrate project specs](https://github.com/ansidev/anti-locker/pull/11) on [ansidev/anti-locker](https://github.com/ansidev/anti-locker) (5 days ago)
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [herdr-codebuddy-plugin](https://ansidev.xyz/projects/herdr-codebuddy-plugin)
-- [SSH from a non-admin Windows machine to a remote Mac with cloudflared and PuTTY](https://ansidev.xyz/posts/2026-11-18-ssh-from-non-admin-windows-to-macos-with-cloudflared-and-putty)
-- [herdr-zcode-plugin](https://ansidev.xyz/projects/herdr-zcode-plugin)
-- [skill-manager-cli](https://ansidev.xyz/projects/skill-manager-cli)
-- [What I Learned Fixing Stale Production CSS](https://ansidev.xyz/posts/2026-11-13-what-i-learned-fixing-stale-production-css)
-- [Aligning Renovate with pnpm&#39;s minimumReleaseAge supply-chain policy](https://ansidev.xyz/posts/2026-11-01-align-renovate-with-pnpm-minimum-release-age)
-- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
