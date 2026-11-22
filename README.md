@@ -45,7 +45,15 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [herdr-codebuddy-plugin](https://ansidev.xyz/projects/herdr-codebuddy-plugin)
+- [SSH from a non-admin Windows machine to a remote Mac with cloudflared and PuTTY](https://ansidev.xyz/posts/2026-11-18-ssh-from-non-admin-windows-to-macos-with-cloudflared-and-putty)
+- [herdr-zcode-plugin](https://ansidev.xyz/projects/herdr-zcode-plugin)
+- [skill-manager-cli](https://ansidev.xyz/projects/skill-manager-cli)
+- [What I Learned Fixing Stale Production CSS](https://ansidev.xyz/posts/2026-11-13-what-i-learned-fixing-stale-production-css)
+- [Aligning Renovate with pnpm&#39;s minimumReleaseAge supply-chain policy](https://ansidev.xyz/posts/2026-11-01-align-renovate-with-pnpm-minimum-release-age)
+- [Bulk-import directories into zoxide with zx-import](https://ansidev.xyz/posts/2026-10-31-bulk-import-directories-into-zoxide-with-zx-import)
+<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
